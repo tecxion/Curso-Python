@@ -22,7 +22,7 @@ En Python, las variables son **dinámicas**, lo que significa que no necesitas d
 - Un nombre de variable solo puede contener caracteres alfanuméricos y guiones bajos (Az, 0-9 y _)
 - Los nombres de las variables distinguen entre mayúsculas y minúsculas (firstname, Firstname, FirstName y FIRSTNAME) son variables diferentes.
 
-<a name="tipodevariables"></a>
+<a name="tiposdevariables"></a>
 
 #### Tipos de Variables en Python
 

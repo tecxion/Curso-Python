@@ -17,24 +17,13 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ## Instalación de Python
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.
-[1- Instalación en windows](#1-instalacion-en-windows)
-[2- Instalación en MacOS](#2-instalacion-en-macos)
-[3- Instalación en Linux](#3-instalacion-en-linux)
-
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
+[1- Instalación en windows](#1-instalacion-en-windows)<br>
+[2- Instalación en MacOS](#2-instalacion-en-macos)<br>
+[3- Instalación en Linux](#3-instalacion-en-linux)<br>
 
 
 
-
-
-### 1. Instalación en Windows <a name="1-instalacion-en-windows></a>
+### 1. Instalación en Windows <a name="#1-instalacion-en-windows></a>
 
 1. **Descarga el instalador:**
    - Ve al sitio oficial de Python: [https://www.python.org/ ](https://www.python.org/ ).
@@ -53,7 +42,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 ---
 
-### 2. Instalación en macOS <a name="2-instalacion-en-macos></a>
+### 2. Instalación en macOS <a name="#2-instalacion-en-macos></a>
 
 1. **Usando Homebrew (recomendado):**
    - Abre la Terminal y ejecuta el siguiente comando para instalar Homebrew (si no lo tienes instalado):
@@ -78,7 +67,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 ---
 
-### 3. Instalación en Linux<a name="3-instalacion-en-linux></a>
+### 3. Instalación en Linux<a name="#3-instalacion-en-linux></a>
 
 La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin embargo, puedes verificar la versión o actualizarla si es necesario.
 
@@ -124,13 +113,7 @@ Ahora que has instalado Python en tu sistema, estás listo para comenzar a progr
 
 
 
-[A link to that custom anchor](#my-custom-anchor-point)
-
-
-
-
-
-[1] Recursos:
+[^1] Recursos:
 - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html)
 
 

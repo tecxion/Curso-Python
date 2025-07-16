@@ -30,7 +30,7 @@ Some text I want to provide a direct link to, but which doesn't have its own hea
 
 (… more content…)
 
-[A link to that custom anchor](#my-custom-anchor-point)
+
 
 
 
@@ -124,7 +124,7 @@ Ahora que has instalado Python en tu sistema, estás listo para comenzar a progr
 
 
 
-
+[A link to that custom anchor](#my-custom-anchor-point)
 
 
 

@@ -16,8 +16,14 @@ Recursos al pie[^1].
 Python es un lenguaje de programación interpretado, de alto nivel y propósito general. Es conocido por su sintaxis clara y legible, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados. Python se utiliza en una amplia variedad de campos, como desarrollo web, análisis de datos, inteligencia artificial, automatización, y mucho más.
 
 ---
+### Índice del Curso:
 
-## Instalación de Python
+1. [Instalación](#instala)
+    - [Configuración del IDE (VS Code)](#configuraciónide)
+2. [Variables](Variables/readme.md)
+
+<a name="#instala"></a>
+## Instalación de Python 
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.<br>
 [1- Instalación en Windows](#instalawindows)<br>
@@ -109,11 +115,73 @@ La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin e
 
 ---
 
-## Próximos Pasos
+<a name="#configuraciónide"></a>
 
-Ahora que has instalado Python en tu sistema, estás listo para comenzar a programar. En las siguientes secciones, aprenderás los conceptos básicos del lenguaje, desde variables y tipos de datos hasta estructuras de control y funciones.
+## Instalación en el IDE 
 
-¡Continúa aprendiendo y divirtiéndote programando en Python!
+# Cómo Usar Visual Studio Code con Python
+
+Visual Studio Code (VS Code) es un editor de código ligero pero potente que es ideal para programar en Python. A continuación, te guiaremos a través de los pasos necesarios para configurar VS Code y comenzar a trabajar con Python.
+
+---
+
+## 1. Instalación de Visual Studio Code
+
+Si aún no tienes instalado VS Code, sigue estos pasos:
+
+1. **Descarga VS Code:**
+   - Ve al sitio oficial de VS Code: [https://code.visualstudio.com/ ](https://code.visualstudio.com/ ).
+   - Descarga la versión adecuada para tu sistema operativo.
+
+2. **Instala VS Code:**
+   - Ejecuta el archivo descargado y sigue las instrucciones del instalador.
+
+---
+
+## 2. Configuración de Python en VS Code
+
+Una vez que tengas VS Code instalado, sigue estos pasos para configurarlo para trabajar con Python:
+
+### 2.1. Instala la Extensión de Python
+
+1. Abre VS Code.
+2. Haz clic en el icono de **Extensiones** en la barra lateral izquierda (o presiona `Ctrl+Shift+X`).
+3. Busca "Python" en la barra de búsqueda.
+4. Encuentra la extensión oficial de Python (publicada por Microsoft) y haz clic en **Instalar**.
+
+![Extensión de Python](https://code.visualstudio.com/assets/docs/python/tutorial/python-extension.png )
+
+### 2.2. Selecciona el Intérprete de Python
+
+1. Abre la paleta de comandos presionando `Ctrl+Shift+P` (o `Cmd+Shift+P` en macOS).
+2. Escribe "Python: Select Interpreter" y selecciona esta opción.
+3. Elige el intérprete de Python que instalaste en tu sistema. Si tienes varias versiones de Python instaladas, asegúrate de seleccionar la correcta.
+
+> **Nota:** Si no ves tu intérprete de Python en la lista, verifica que Python esté correctamente instalado en tu sistema.
+
+---
+
+## 3. Crear y Ejecutar un Archivo Python
+
+Ahora que tienes VS Code configurado, puedes crear y ejecutar archivos Python fácilmente.
+
+### 3.1. Crear un Archivo Python
+
+1. Haz clic en **File > New File** (o presiona `Ctrl+N`).
+2. Guarda el archivo con la extensión `.py`, por ejemplo, `hola_mundo.py`.
+3. Escribe un programa simple en Python, como este:
+
+- Tambien desde la consola de comandos puedes poner python y te saldra una lista solo tienes que elegir Python: New File.
+- Ejemplo: 
+   ```python
+   print("¡Hola, mundo!")
+   ```
+
+### 3.2. Ejecutar el Archivo Python
+
+1. Haz clic en el botón de ejecución (o presiona `F5`).
+2. El programa se ejecutará y mostrará el mensaje "¡Hola, mundo!" en la consola.
+
 
 
 

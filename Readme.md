@@ -72,10 +72,9 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
    - Deberías ver la versión de Python instalada.
 
 ---
+<a name="3-instalacion-en-linux"></a>
 
 ### 3. Instalación en Linux
-
-<a name="3-instalacion-en-linux"></a>
 
 La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin embargo, puedes verificar la versión o actualizarla si es necesario.
 
@@ -119,7 +118,7 @@ Ahora que has instalado Python en tu sistema, estás listo para comenzar a progr
 
 
 
-[^1] Recursos:
+[^1]: Recursos:
 - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html)
 
 

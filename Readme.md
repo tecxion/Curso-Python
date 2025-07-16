@@ -21,7 +21,16 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 [2- Instalación en MacOS](#2-instalacion-en-macos)
 [3- Instalación en Linux](#3-instalacion-en-linux)
 
+# Section Heading
 
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
 
 
 

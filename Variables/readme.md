@@ -24,7 +24,7 @@ En Python, las variables son **dinámicas**, lo que significa que no necesitas d
 
 <a name="tiposdevariables"></a>
 
-#### Tipos de Variables en Python
+## Tipos de Variables en Python
 
 A continuación, se describen los principales tipos de variables en Python:
 

@@ -3,7 +3,6 @@
 Bienvenidos este curso aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curos voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios.
 
 
-
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
 >Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
@@ -21,12 +20,12 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ## Instalación de Python
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.<br>
-[Instalación windows](#instalawindows)<br>
+[1- Instalación en Windows](#instalawindows)<br>
 [2- Instalación en MacOS](#2-instalacion-en-macos)<br>
 [3- Instalación en Linux](#3-instalacion-en-linux)<br>
 
 
-<a name="#instalawindows"></a>
+<a name="instalawindows"></a>
 
 ### 1. Instalación en Windows
 
@@ -47,7 +46,7 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 
 ---
 
-<a name="#2-instalacion-en-macos"></a>
+<a name="2-instalacion-en-macos"></a>
 
 ### 2. Instalación en macOS 
 
@@ -76,7 +75,7 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 
 ### 3. Instalación en Linux
 
-<a name="#3-instalacion-en-linux"></a>
+<a name="3-instalacion-en-linux"></a>
 
 La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin embargo, puedes verificar la versión o actualizarla si es necesario.
 
@@ -116,18 +115,6 @@ La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin e
 Ahora que has instalado Python en tu sistema, estás listo para comenzar a programar. En las siguientes secciones, aprenderás los conceptos básicos del lenguaje, desde variables y tipos de datos hasta estructuras de control y funciones.
 
 ¡Continúa aprendiendo y divirtiéndote programando en Python!
-
-
-
-
-# Section Heading
-
-Some body text of this section.
-
-<a name="my-custom-anchor-point"></a>
-Some text I want to provide a direct link to, but which doesn't have its own heading.
-
-(… more content…)
 
 
 

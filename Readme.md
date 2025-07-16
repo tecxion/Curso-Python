@@ -21,12 +21,12 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ## Instalación de Python
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.<br>
-[Instalación windows](#my-custom-anchor-point)<br>
+[Instalación windows](#instalawindows)<br>
 [2- Instalación en MacOS](#2-instalacion-en-macos)<br>
 [3- Instalación en Linux](#3-instalacion-en-linux)<br>
 
 
-<a name="#1-instalacion-en-windows"></a>
+<a name="#instalawindows"></a>
 
 ### 1. Instalación en Windows
 

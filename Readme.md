@@ -4,7 +4,9 @@ Bienvenidos este curso aprenderemos a programar en python, no soy experto en ell
 
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
->Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.[^1]
+>Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
+
+Recursos al pie[^1].
 
 ---
 
@@ -22,8 +24,9 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 [3- Instalación en Linux](#3-instalacion-en-linux)<br>
 
 
+<a name="#1-instalacion-en-windows></a>
 
-### 1. Instalación en Windows <a name="#1-instalacion-en-windows></a>
+### 1. Instalación en Windows v
 
 1. **Descarga el instalador:**
    - Ve al sitio oficial de Python: [https://www.python.org/ ](https://www.python.org/ ).
@@ -42,7 +45,9 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 
 ---
 
-### 2. Instalación en macOS <a name="#2-instalacion-en-macos></a>
+<a name="#2-instalacion-en-macos></a>
+
+### 2. Instalación en macOS 
 
 1. **Usando Homebrew (recomendado):**
    - Abre la Terminal y ejecuta el siguiente comando para instalar Homebrew (si no lo tienes instalado):
@@ -67,7 +72,9 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 
 ---
 
-### 3. Instalación en Linux<a name="#3-instalacion-en-linux></a>
+### 3. Instalación en Linux
+
+<a name="#3-instalacion-en-linux></a>
 
 La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin embargo, puedes verificar la versión o actualizarla si es necesario.
 

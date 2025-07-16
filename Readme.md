@@ -2,6 +2,8 @@
 
 Bienvenidos este curso aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curos voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios.
 
+[A link to that custom anchor](#my-custom-anchor-point)
+
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
 >Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
@@ -26,7 +28,7 @@ Antes de comenzar, necesitarás instalar Python en tu computadora. A continuaci�
 
 <a name="#1-instalacion-en-windows"></a>
 
-### 1. Instalación en Windows v
+### 1. Instalación en Windows
 
 1. **Descarga el instalador:**
    - Ve al sitio oficial de Python: [https://www.python.org/ ](https://www.python.org/ ).
@@ -116,6 +118,16 @@ Ahora que has instalado Python en tu sistema, estás listo para comenzar a progr
 ¡Continúa aprendiendo y divirtiéndote programando en Python!
 
 
+
+
+# Section Heading
+
+Some body text of this section.
+
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
 
 
 

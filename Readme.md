@@ -118,7 +118,7 @@ Ahora que has instalado Python en tu sistema, estás listo para comenzar a progr
 
 
 
-[^1]: Recursos:
-- Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html)
+[^1]: Recursos: - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html)
+
 
 

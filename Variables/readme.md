@@ -17,10 +17,10 @@ En Python, las variables son **dinámicas**, lo que significa que no necesitas d
 
 #### Reglas de nombres de variables de Python
 
-- Un nombre de variable **debe** comenzar con una * *letra o el carácter de guión bajo* *
+- Un nombre de variable **debe** comenzar con una *letra o el carácter de guión bajo*
 - Un nombre de variable **no puede** comenzar con un número
-- Un nombre de variable **solo** puede contener * *caracteres alfanuméricos y guiones bajos* * (Az, 0-9 y _)
-- Los nombres de las variables **distinguen** entre * *mayúsculas y minúsculas* * (firstname, Firstname, FirstName y FIRSTNAME) son variables diferentes.
+- Un nombre de variable **solo** puede contener *caracteres alfanuméricos y guiones bajos* (Az, 0-9 y _)
+- Los nombres de las variables **distinguen** entre *mayúsculas y minúsculas* (firstname, Firstname, FirstName y FIRSTNAME) son variables diferentes.
 
 >[!NOTE]
 >En python como en otros muchos lenguajes existen las palabras reservadas por lo que no pueden usarse como nombre de variables. Ejemplos: if, for, while, def, class, etc.(debemos tenerlo en cuenta a la hora de escribir nuestro código)

@@ -2,7 +2,7 @@
 
 Bienvenidos este curso aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curos voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios.
 
-[A link to that custom anchor](#my-custom-anchor-point)
+
 
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
@@ -21,7 +21,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ## Instalación de Python
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.<br>
-[1- Instalación en windows](#1-instalacion-en-windows)<br>
+[Instalación windows](#my-custom-anchor-point)<br>
 [2- Instalación en MacOS](#2-instalacion-en-macos)<br>
 [3- Instalación en Linux](#3-instalacion-en-linux)<br>
 

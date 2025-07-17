@@ -20,7 +20,13 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 
 1. [Instalación](#instala)
     - [Configuración del IDE (VS Code)](#configuraciónide)
-2. [Variables](01_Variables//readme.md)
+2. [Variables](01_Variables/readme.md)
+      * [Variables](01_Variables/readme.md/#variables)
+        * [Tipos de variables](01_Variables/readme.md/#tiposdevariables)
+        * [Declarar múltiples variables en una línea](01_Variables/readme.md/#multiplesvariableslinea)
+      * [Tipos de dato y conversión](01_Variables/readme.md/#tiposdato)
+        * [Tipos](01_Variables/readme.md/#tipos)
+        * [conversion](01_Variables/readme.md/#conversion)
 
 <a name="#instala"></a>
 ## Instalación de Python 

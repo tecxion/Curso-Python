@@ -19,7 +19,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ### Índice del Curso:
 
 1. [Instalación](#instala)
-    - [Configuración del IDE (VS Code)](#configuraciónide)
+     * [Configuración del IDE (VS Code)](#configuraciónide)
 2. [Variables](01_Variables/readme.md)
       * [Variables](01_Variables/readme.md/#variables)
         * [Tipos de variables](01_Variables/readme.md/#tiposdevariables)
@@ -30,7 +30,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 
 --- 
 
-<a name="#instala"></a>
+<a name="instala"></a>
 ## Instalación de Python 
 
 Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.
@@ -125,7 +125,7 @@ La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin e
 
 ---
 
-<a name="#configuraciónide"></a>
+<a name="configuraciónide"></a>
 
 # Instalación en el IDE 
 

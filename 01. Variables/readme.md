@@ -2,8 +2,11 @@
 
 - En la siguiente sección se explica cómo se pueden utilizar variables y funciones built-in en Python.
   * [Variables](#variables)
-  * [Tipos de variables](#tiposdevariables)
-  * 
+    * [Tipos de variables](#tiposdevariables)
+    * [Declarar múltiples variables en una línea](#multiplesvariableslinea)
+  * [Tipos de dato y conversión](#tiposdato)
+    * [Tipos](#tipos)
+    * [conversion](#conversion)
 
 <a name="variables"></a>
 
@@ -89,6 +92,8 @@ Puedes usar zip para combinar dos listas en pares clave-valor y crear un diccion
 >[!NOTE]
 >Creo que los tipos de datos zip necesitaban una aclaración mejor para no confundirlos con ficheros zip sobre todo ahora que estamos comenzando.
 
+<a name="multiplesvariableslinea"></a>
+
 ### Declarar múltiples variables en una líne
 
 También se pueden declarar variables en una única línea de código
@@ -101,13 +106,17 @@ print("ciidad:", ciudad)
 print("edad:", edad)
 ```
 
+<a name="tiposdato"></a>
+
 ### Tipos de datos
 
 En python como en el resto de lenguajes de programación existen diferentes tipos de datos, aunque no hace falta declarar el tipo como podría ser java, siempre tenemos que tener en cuenta que tipo de dato es para evitar errores en el código.
 
 #### Comprobación del tipo de dato y conversión
 
-- En las siguientes líneas de código puedes ver declaradas unas variables y su impresión por pantalla (Copia el código y comprueba a ver que te dice la consola).
+<a name="tipos"></a>
+
+- En las siguientes líneas de código puedes ver declaradas unas variables y su impresión por pantalla del tipo de dato que guardan (Copia el código y comprueba a ver que te dice la consola).
 ```python
 # Tipos de variables en python.
 nombre = "Pepe"        #string
@@ -128,6 +137,8 @@ print(type((1,2)))     # tupla
 print(type(zip([1,2],[3,4])))   # zip
 print(type(asignaturas)) # lista
 ```
+
+<a name="conversion"></a>
 
 - Conversión: En muchas ocasiones para evitar errores debemos convertir una variable en otra ya que si tenemos un float almacenado en memoria ese dato no puede trabajarse como un int a pesar que los dos sean números, para ello se usa la conversión de datos con las funciones de conversión, esto se usa en todos los lenguajes de programación para evitar errores.
    - Las diferentes funciones que existen para convertir datos y las más utilizadas seran, float(), str(), bool(), list(), tuple(), set(), a continuación os dejo unos ejemplos:

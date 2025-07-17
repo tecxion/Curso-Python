@@ -7,7 +7,7 @@ Bienvenidos este curso aprenderemos a programar en python, no soy experto en ell
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
 >Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
 
-Recursos al pie[^1].
+**Recursos al pie del readme[^1].**
 
 ---
 
@@ -28,14 +28,18 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
         * [Tipos](01_Variables/readme.md/#tipos)
         * [conversion](01_Variables/readme.md/#conversion)
 
+--- 
+
 <a name="#instala"></a>
 ## Instalación de Python 
 
-Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.<br>
+Antes de comenzar, necesitarás instalar Python en tu computadora. A continuación, te proporcionamos instrucciones para instalar Python en diferentes sistemas operativos.
+<br>
 [1- Instalación en Windows](#instalawindows)<br>
 [2- Instalación en MacOS](#2-instalacion-en-macos)<br>
 [3- Instalación en Linux](#3-instalacion-en-linux)<br>
 
+---
 
 <a name="instalawindows"></a>
 
@@ -123,9 +127,9 @@ La mayoría de las distribuciones de Linux vienen con Python preinstalado. Sin e
 
 <a name="#configuraciónide"></a>
 
-## Instalación en el IDE 
+# Instalación en el IDE 
 
-# Cómo Usar Visual Studio Code con Python
+## Cómo Usar Visual Studio Code con Python
 
 Visual Studio Code (VS Code) es un editor de código ligero pero potente que es ideal para programar en Python. A continuación, te guiaremos a través de los pasos necesarios para configurar VS Code y comenzar a trabajar con Python.
 
@@ -192,7 +196,7 @@ Ahora que tienes VS Code configurado, puedes crear y ejecutar archivos Python f�
 
 
 
-[^1]: Recursos: - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html) / [Juego aprender python](https://www.codedex.io/) / [GitHub Mouredev](https://github.com/mouredev/Hello-Python) / y para mi el mejor repositorio pero en lengua inglesa [Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
+[^1]: Recursos: - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html) / [Juego aprender python (Codedex)](https://www.codedex.io/) / [GitHub Mouredev](https://github.com/mouredev/Hello-Python) / y para mi el mejor repositorio pero en lengua inglesa [Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
 
 
 

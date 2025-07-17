@@ -20,7 +20,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 
 1. [Instalación](#instala)
     - [Configuración del IDE (VS Code)](#configuraciónide)
-2. [Variables](01.Variables//readme.md)
+2. [Variables](01_Variables//readme.md)
 
 <a name="#instala"></a>
 ## Instalación de Python 

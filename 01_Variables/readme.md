@@ -7,6 +7,7 @@
   * [Tipos de dato y conversión](#tiposdato)
     * [Tipos](#tipos)
     * [conversion](#conversion)
+  * [Funciones Built-in](#builtin)
 
 <a name="variables"></a>
 
@@ -170,3 +171,7 @@ print(numero + 10)                        # Realiza una operación matemática
     int(3.9)  # Resultado: 3 (se trunca el decimal)
     ```
     3. Valores Vacíos o Nulos: Los valores vacíos (como "", 0, None) generalmente se convierten a False en contextos booleanos.
+
+
+<a name="builtin"></a>
+## Funciones Built-in 

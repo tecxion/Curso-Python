@@ -27,6 +27,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
       * [Tipos de dato y conversión](01_Variables/readme.md/#tiposdato)
         * [Tipos](01_Variables/readme.md/#tipos)
         * [conversion](01_Variables/readme.md/#conversion)
+      * [Funciones Built-in](01_Variables/readme.md/#builtin)
 
 --- 
 

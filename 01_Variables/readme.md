@@ -1,3 +1,10 @@
+<h1>
+<img src="">
+
+</h1>
+
+
+
 # Variables y Funciones Built-in
 
 - En la siguiente sección se explica cómo se pueden utilizar variables y funciones built-in en Python.
@@ -244,23 +251,31 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 10. Declara una variable llamada es_de_dia y asígnale un valor booleano.
 11. Declara múltiples variables en una sola línea (ejemplo: x, y, z = 10, 20, 30).
 
+[Solucion](ejercicio1.py)
+
 
 <a name="ejercicios2"></a>
 
 #### Ejercicio 2: funciones Built-in
 
-1. Usa la función type() para verificar el tipo de datos de todas las variables declaradas.
+1. Usa la función type() para verificar el tipo de datos de todas las variables declaradas en el ejercicio 1.
 2. Usa la función len() para encontrar la longitud de tu nombre_usuario.
 3. Compara la longitud de tu nombre_usuario con la longitud de tu profesion.
 4. Declara dos variables: numero_a = 7 y numero_b = 3.
 5. Suma numero_a y numero_b, y asigna el resultado a una variable llamada suma_total.
-6. Resta numero_b de numero_a, y asigna el resultado a una variable llamada resta_resultado.
-7. Multiplica numero_a por numero_b, y asigna el resultado a una variable llamada multiplicacion.
-8. Divide numero_a entre numero_b, y asigna el resultado a una variable llamada division.
-9. Usa el operador de módulo (%) para encontrar el resto de numero_a dividido por numero_b, y asigna el resultado a una variable llamada resto.
-10. Calcula numero_a elevado a numero_b, y asigna el resultado a una variable llamada potencia.
-11. Encuentra la división entera de numero_a entre numero_b, y asigna el resultado a una variable llamada division_entera.
+6. Imprime por pantalla el número más alto de los dos números anteriores.
+7. Crea una lista llamada palabras con las siguientes cadenas ["manzana", "plátano", "cereza", "naranja", "uva"]
+8. Usa la función len() para encontrar la longitud de cada palabra en la lista y almacena los resultados en
+ una nueva lista llamada longitudes_palabras
+9. Usa la función max() para encontrar la palabra más larga en la lista (basándote en su longitud) y almacena
+ el resultado en una variable llamada palabra_mas_larga
+10. Usa la función min() para encontrar la palabra más corta en la lista (basándote en su longitud) y almacena
+ el resultado en una variable llamada palabra_mas_corta
+12. Usa la función sorted() para ordenar la lista de palabras alfabéticamente y almacena el resultado en una variable
+ llamada palabras_ordenadas
 
+
+[Solución](ejercicio2.py)
 
 #### Ejercicio adicional
 

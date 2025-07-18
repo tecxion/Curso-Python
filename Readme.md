@@ -18,9 +18,9 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 ---
 ### Índice del Curso:
 
-1. [Instalación](#instala)
+1. [Capítulo 1: Instalación](#instala)
      * [Configuración del IDE (VS Code)](#configuraciónide)
-2. [Variables](01_Variables/readme.md)
+2. [Capítulo 2: Variables y Funciones Built in](01_Variables/readme.md)
       * [Variables](01_Variables/readme.md/#variables)
         * [Tipos de variables](01_Variables/readme.md/#tiposdevariables)
         * [Declarar múltiples variables en una línea](01_Variables/readme.md/#multiplesvariableslinea)
@@ -28,6 +28,11 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
         * [Tipos](01_Variables/readme.md/#tipos)
         * [conversion](01_Variables/readme.md/#conversion)
       * [Funciones Built-in](01_Variables/readme.md/#builtin)
+      * [Ejercicios de repaso](01_Variables/readme.md/#ejercicios)
+        * [Ejercicio 1](01_Variables/readme.md/#ejercicio1)
+        * [Ejercicio 2](01_Variables/readme.md/#ejercicio2)
+3. [Capítulo 3: Operadores](02_Operadores/readme.md)
+     * [Operadores de asignación](02_Operadores/readme.md/#operadoresasignacion)
 
 --- 
 

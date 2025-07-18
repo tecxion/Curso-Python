@@ -9,6 +9,9 @@
     * [Tipos](#tipos)
     * [conversion](#conversion)
   * [Funciones Built-in](#builtin)
+  * [Ejercicios](#ejercicios)
+    * [Ejercicio 1](#ejercicio1)
+    * [Ejercicio 2](#ejercicio2)
 
 ---
 
@@ -220,9 +223,13 @@ Puedes practicar con la función que quieras para ello puedes leer la documentac
 
 --- 
 
+<a name="ejercicios"></a>
+
 ### Ejercicios de variables y funciones built-in
 
 Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se llame "python" y dentro de esa carpeta crea un archivo llamado "01_Variables.py". Abre el archivo y escribe el código de los ejercicios.
+
+<a name="ejercicio1"></a>
 
 #### Ejercicio 1: Variables
 1. Escribe un comentario en una línea que diga *"esto es un comentario en una línea".*
@@ -236,6 +243,9 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 9. Declara una variable llamada tiene_trabajo y asígnale un valor booleano.
 10. Declara una variable llamada es_de_dia y asígnale un valor booleano.
 11. Declara múltiples variables en una sola línea (ejemplo: x, y, z = 10, 20, 30).
+
+
+<a name="ejercicios2"></a>
 
 #### Ejercicio 2: funciones Built-in
 

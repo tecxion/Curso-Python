@@ -57,17 +57,16 @@ x *= 2  # x ahora es 30
 
 Los operadores aritméticos se utilizan para realizar operaciones matemáticas básicas.
 
-______________________________________________________________________________________
-| OPERADOR                                                                             | DESCRIPCIÓN     | EJEMPLO | RESULTADO |
-| ------------------------------------------------------------------------------------ | --------------- | ------- | --------- |
-| +                                                                                    | Suma            | 3 + 1   | 4         |
-| -                                                                                    | Resta           | 3 - 1   | 2         |
-| *                                                                                    | Multiplicación  | 3 * 2   | 6         |
-| /                                                                                    | División        | 4 / 2   | 2         |
-| %                                                                                    | Módulo          | 10 % 3  | 1         |
-| **                                                                                   | Potencia        | 2 ** 3  | 8         |
-| //                                                                                   | División entera | 10 // 3 | 3         |
-| ____________________________________________________________________________________ |
+_________________________________________________________
+| --------------| --------------- | ------- | --------- |
+| +   | Suma | 3 + 1 | 4 |
+| --- |Resta            | 3 - 1   | 2         |
+| *             | Multiplicación  | 3 * 2   | 6         |
+| /             | División        | 4 / 2   | 2         |
+| %             | Módulo          | 10 % 3  | 1         |
+| **            | Potencia        | 2 ** 3  | 8         |
+| //            | División entera | 10 // 3 | 3         |
+| ______________________________________________________|
 
 ### Ejemplo:
 ```python
@@ -89,16 +88,16 @@ print(a // b)  # division_entera es 1
 
 Los operadores de comparación se utilizan para comparar dos valores. Devuelven un valor booleano (True o False) como resultado.
 
-______________________________________________________________________________________
-| OPERADOR                                                                              | DESCRIPCIÓN       | EJEMPLO | RESULTADO |
-| ------------------------------------------------------------------------------------- | ----------------- | ------- | --------- |
-| ==                                                                                    | Igualdad          | 3 == 2  | False     |
-| !=                                                                                    | Desigualdad       | 3 != 2  | True      |
-| >                                                                                     | Mayor que         | 3 > 2   | True      |
-| <                                                                                     | Menor que         | 3 < 2   | False     |
-| >=                                                                                    | Mayor o igual que | 3 >= 2  | True      |
-| <=                                                                                    | Menor o igual que | 3 <= 2  | False     |
-| _____________________________________________________________________________________ |
+________________________________________________________
+| OPERADOR                                             | DESCRIPCIÓN       | EJEMPLO | RESULTADO |
+| ---------------------------------------------------- | ----------------- | ------- | --------- |
+| ==                                                   | Igualdad          | 3 == 2  | False     |
+| !=                                                   | Desigualdad       | 3 != 2  | True      |
+| >                                                    | Mayor que         | 3 > 2   | True      |
+| <                                                    | Menor que         | 3 < 2   | False     |
+| >=                                                   | Mayor o igual que | 3 >= 2  | True      |
+| <=                                                   | Menor o igual que | 3 <= 2  | False     |
+| ____________________________________________________ |
 
 ### Ejemplo:
 ```python

@@ -179,7 +179,7 @@ print(numero + 10)                        # Realiza una operación matemática
 
 En python tenemos muchas funciones que nos ayudan a realizar muchas tareas, estas funciones son llamadas funciones built-in ya que son funciones que ya están definidas en el lenguaje y que podemos utilizar sin importar que el lenguaje este instalado en nuestro sistema, estas funciones son muy útiles y nos ayudan a realizar muchas tareas de forma rápida y sencilla, las funciones built-in son las siguientes:
 
-![funciones Built-in](/Media/funcionesBuilt-in.png)
+![funciones Built-in](/Media/funcionesbuiltin.png)
 
 Yo estoy usando ahora mismo windows pero se puede hacer desde cualquier terminal, solo hay que abrir python en la misma e introducir la funcion que queramos usar.
 

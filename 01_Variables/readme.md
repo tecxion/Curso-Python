@@ -1,5 +1,5 @@
 <h1>
-<img src="">
+<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/variables1.png">
 
 </h1>
 
@@ -46,6 +46,7 @@ triples comillas simples.
 - Para comentarios temporales o desactivar bloques de código, es mejor usar #.
 
 
+---
 
 <a name="variables"></a>
 
@@ -210,6 +211,7 @@ print(numero + 10)                        # Realiza una operación matemática
     ```
     3. Valores Vacíos o Nulos: Los valores vacíos (como "", 0, None) generalmente se convierten a False en contextos booleanos.
 
+---
 
 <a name="builtin"></a>
 

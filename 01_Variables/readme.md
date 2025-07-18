@@ -1,6 +1,7 @@
 # Variables y Funciones Built-in
 
 - En la siguiente sección se explica cómo se pueden utilizar variables y funciones built-in en Python.
+  * [Comentarios](#comentarios)
   * [Variables](#variables)
     * [Tipos de variables](#tiposdevariables)
     * [Declarar múltiples variables en una línea](#multiplesvariableslinea)
@@ -8,6 +9,33 @@
     * [Tipos](#tipos)
     * [conversion](#conversion)
   * [Funciones Built-in](#builtin)
+
+---
+
+<a name="comentarios"></a>
+
+## Comentarios
+
+Como en todo lenguaje de programación los comentarios son muy importantes siempre pero siempre sin excedernos, en python los comentarios se escriben con el símbolo "#" y para hacer comentarios multilínea se ponen tres comillas simples o dobles.
+
+Ejemplo:
+```python
+# Esto es un comentario en 
+# varias líneas usando el símbolo "#"
+''' 
+Este es un comentario
+multilínea usando
+triples comillas simples.
+''' 
+```
+
+#### Importante:
+
+- Los docstrings (''' o """) son accesibles en tiempo de ejecución (como atributo __doc__), mientras que los comentarios con # son ignorados por el intérprete.
+
+- Para comentarios temporales o desactivar bloques de código, es mejor usar #.
+
+
 
 <a name="variables"></a>
 
@@ -188,3 +216,45 @@ Yo estoy usando ahora mismo windows pero se puede hacer desde cualquier terminal
 Puedes practicar con la función que quieras para ello puedes leer la documentación oficial y ver que hace cada función.
 
 [Funciones Built-in](https://docs.python.org/es/3.9/library/functions.html)
+
+
+--- 
+
+### Ejercicios de variables y funciones built-in
+
+Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se llame "python" y dentro de esa carpeta crea un archivo llamado "01_Variables.py". Abre el archivo y escribe el código de los ejercicios.
+
+#### Ejercicio 1: Variables
+1. Escribe un comentario en una línea que diga *"esto es un comentario en una línea".*
+2. Escribe un comentario en varias líneas que diga *"esto es un comentario multilínea y estoy usando varias líneas"* usando el comentario multilínea.
+3. Declara una variable llamada nombre_usuario y asígnale un valor.
+4. Declara una variable llamada profesion y asígnale un valor.
+5. Declara una variable llamada lenguaje_favorito y asígnale un valor.
+6. Declara una variable llamada edad_actual y asígnale un valor.
+7. Declara una variable llamada año_nacimiento y asígnale un valor.
+8. Declara una variable llamada es_estudiante y asígnale un valor booleano.
+9. Declara una variable llamada tiene_trabajo y asígnale un valor booleano.
+10. Declara una variable llamada es_de_dia y asígnale un valor booleano.
+11. Declara múltiples variables en una sola línea (ejemplo: x, y, z = 10, 20, 30).
+
+#### Ejercicio 2: funciones Built-in
+
+1. Usa la función type() para verificar el tipo de datos de todas las variables declaradas.
+2. Usa la función len() para encontrar la longitud de tu nombre_usuario.
+3. Compara la longitud de tu nombre_usuario con la longitud de tu profesion.
+4. Declara dos variables: numero_a = 7 y numero_b = 3.
+5. Suma numero_a y numero_b, y asigna el resultado a una variable llamada suma_total.
+6. Resta numero_b de numero_a, y asigna el resultado a una variable llamada resta_resultado.
+7. Multiplica numero_a por numero_b, y asigna el resultado a una variable llamada multiplicacion.
+8. Divide numero_a entre numero_b, y asigna el resultado a una variable llamada division.
+9. Usa el operador de módulo (%) para encontrar el resto de numero_a dividido por numero_b, y asigna el resultado a una variable llamada resto.
+10. Calcula numero_a elevado a numero_b, y asigna el resultado a una variable llamada potencia.
+11. Encuentra la división entera de numero_a entre numero_b, y asigna el resultado a una variable llamada division_entera.
+
+
+#### Ejercicio adicional
+
+- El lado de un cuadrado es de 10 metros.
+  - Calcula el área del cuadrado y asigna el valor a una variable llamada area_cuadrado.
+  - Calcula el perímetro del cuadrado y asigna el valor a una variable llamada perimetro_cuadrado.
+- Ejecuta help('keywords') en el shell de Python para revisar las palabras reservadas.

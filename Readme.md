@@ -3,7 +3,14 @@
 
 </h1>
 
-Bienvenidos este curso aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curos voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios.
+Bienvenidos este curso donde aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curso voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios y este lenguaje es algo que con la IA se le está dando mucha importancia por lo que voy a aprenderlo y ayudar a otras personas a que lo aprendan.
+
+<h1 align="center">
+   <a href="https://youtube.com/@tx-dron-avistadedron">
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+</a>
+</h1>
+
 
 
 >[!NOTE]
@@ -196,7 +203,15 @@ Ahora que tienes VS Code configurado, puedes crear y ejecutar archivos Python f�
 2. El programa se ejecutará y mostrará el mensaje "¡Hola, mundo!" en la consola.
 
 
+## 💰 ¿Puedes ayudarme a crecer?
 
+Con tu donación puedes ayudarme a generar más contenido y proyectos, como menciono en mi [perfil de github](https://github.com/tecxion) no me dedico a ello con lo que mis ingresos son de otra fuente y no puedo dedicarle el tiempo que me gustaría, gracias por tu apoyo.
+
+<h1 align="center">
+   <a href="https://paypal.me/jfmpkiko">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">
+</a>
+</h1>
 
 
 [^1]: Recursos: - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html) / [Juego aprender python (Codedex)](https://www.codedex.io/) / [GitHub Mouredev](https://github.com/mouredev/Hello-Python) / y para mi el mejor repositorio pero en lengua inglesa [Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)

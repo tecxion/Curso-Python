@@ -211,6 +211,17 @@ print(numero + 10)                        # Realiza una operación matemática
     ```
     3. Valores Vacíos o Nulos: Los valores vacíos (como "", 0, None) generalmente se convierten a False en contextos booleanos.
 
+- ¿Qué son las f-strings?
+
+Las f-strings (formateo de cadenas) permiten insertar variables, expresiones o llamadas a funciones directamente dentro de una cadena de texto. Son una forma clara y concisa de combinar texto y datos dinámicos, esto debemos tenerlo en cuenta si queremos poner variables en una cadena de texto. f"Texto {variable_o_expresión}"
+
+Ejemplo:
+```python
+nombre = "Juan"
+edad = 30
+print(f"Hola, mi nombre es {nombre} y tengo {edad} años.")
+```
+
 ---
 
 <a name="builtin"></a>
@@ -229,6 +240,12 @@ Puedes practicar con la función que quieras para ello puedes leer la documentac
 
 [Funciones Built-in](https://docs.python.org/es/3.9/library/functions.html)
 
+
+- Dentro de las funciones built-in podrás encontrar la de entrada de datos por parte del usuario, en este caso usaremos la función input(), esta función nos permite pedir al usuario que introduzca un valor, este valor se guarda en una variable que se puede utilizar después.
+```python
+nombre = input("Introduce tu nombre: ")
+print("Hola", nombre)
+```
 
 --- 
 
@@ -281,7 +298,12 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 
 #### Ejercicio adicional
 
-- El lado de un cuadrado es de 10 metros.
-  - Calcula el área del cuadrado y asigna el valor a una variable llamada area_cuadrado.
-  - Calcula el perímetro del cuadrado y asigna el valor a una variable llamada perimetro_cuadrado.
+- Solicita al usuario que ingrese el lado del cuadrado.
+  - Calcula el área del cuadrado y asigna el valor a una variable llamada area_cuadrado. (ladoxlado)
+  - Calcula el perímetro del cuadrado y asigna el valor a una variable llamada perimetro_cuadrado. (4xlado)
 - Ejecuta help('keywords') en el shell de Python para revisar las palabras reservadas.
+
+[Solución](ejercicioadicional.py)
+
+>![NOTE]
+>Para este ejercicio tendrás que ejecutar el código desde la terminal de Python y no desde el editor de código.

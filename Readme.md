@@ -1,4 +1,7 @@
-# CURSO de Python desde 0
+<h1 align="center">
+<img src="">
+
+</h1>
 
 Bienvenidos este curso aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curos voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios.
 

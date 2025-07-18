@@ -46,6 +46,7 @@ triples comillas simples.
 - Para comentarios temporales o desactivar bloques de código, es mejor usar #.
 
 
+---
 
 <a name="variables"></a>
 

@@ -26,22 +26,20 @@ Python incluye varios tipos de operadores, que se clasifican en las siguientes c
 
 Los **operadores de asignación** se utilizan para asignar valores a variables. Además de la asignación básica (`=`), existen operadores combinados que realizan una operación y asignan el resultado en un solo paso.
 
-| Operador                                                                                   | Descripción                     | Ejemplo                        | Equivalente      |
-| ------------------------------------------------------------------------------------------ | ------------------------------- | ------------------------------ | ---------------- |
-| `=`                                                                                        | Asigna un valor                 | `x = 5`                        | `x = 5`          |
-| `+=`                                                                                       | Suma y asigna                   | `x += 3`                       | `x = x + 3`      |
-| `-=`                                                                                       | Resta y asigna                  | `x -= 2`                       | `x = x - 2`      |
-| `*=`                                                                                       | Multiplica y asigna             | `x *= 4`                       | `x = x * 4`      |
-| `/=`                                                                                       | Divide y asigna                 | `x /= 2`                       | `x = x / 2`      |
-| `%=`                                                                                       | Calcula el módulo y asigna      | `x %= 3`                       | `x = x % 3`      |
-| `//=`                                                                                      | Divide de forma entera y asigna | `x //= 2`                      | `x = x // 2`     |
-| `**=`                                                                                      | Potencia y asigna               | `x **= 3`                      | `x = x ** 3`     |
-| <<=                                                                                        | Desplaza bits a la izquierda    | `x <<= 2`                      | `x = x << 2`     |
-| >>=                                                                                        | Desplaza bits a la derecha      | `x >>= 1`                      | `x = x >> 1`     |
-| &=                                                                                         | Realiza operación AND bit a bit | `x &= 0b1010`                  | `x = x & 0b1010` |
-| ^=                                                                                         | Realiza operación XOR bit a bit | `x ^= 0b1100`                  | `x = x ^ 0b100`  |
-|                                                                                            | =                               | Realiza operación OR bit a bit | `x               | = 0b1111` | `x = x | 0b1111` |
-| __________________________________________________________________________________________ |
+| Operador | Descripción                    Ejemplo | Equivalente |
+| -------- | -------------------------------------- | ----------- | -------------- |
+| =        | Asigna un valor                        | x = 5       | x = 5          |
+| +=       | Suma y asigna                          | x += 3      | x = x + 3      |
+| -=       | Resta y asigna                         | x -= 2      | x = x - 2      |
+| *=       | Multiplica y asigna                    | x *= 4      | x = x * 4      |
+| /=       | Divide y asigna                        | x /= 2      | x = x / 2      |
+| %=       | Calcula el módulo y asigna             | x %= 3      | x = x % 3      |
+| //=      | Divide de forma entera y asigna        | x //= 2     | x = x // 2     |
+| **=      | Potencia y asigna                      | x **= 3     | x = x ** 3     |
+| <<=      | Desplaza bits a la izquierda           | x <<= 2     | x = x << 2     |
+| >>=      | Desplaza bits a la derecha             | x >>= 1     | x = x >> 1     |
+| &=       | Realiza operación AND bit a bit        | x &= 0b1010 | x = x & 0b1010 |
+| ^=       | Realiza operación XOR bit a bit        | x ^= 0b1100 | x = x ^ 0b100  |
 
 ### Ejemplo:
 ```python
@@ -57,16 +55,16 @@ x *= 2  # x ahora es 30
 
 Los operadores aritméticos se utilizan para realizar operaciones matemáticas básicas.
 
-_________________________________________________________
-| --------------| --------------- | ------- | --------- |
-| +   | Suma | 3 + 1 | 4 |
-| --- |Resta            | 3 - 1   | 2         |
-| *             | Multiplicación  | 3 * 2   | 6         |
-| /             | División        | 4 / 2   | 2         |
-| %             | Módulo          | 10 % 3  | 1         |
-| **            | Potencia        | 2 ** 3  | 8         |
-| //            | División entera | 10 // 3 | 3         |
-| ______________________________________________________|
+
+| Operador | Descripción     | Ejemplo | Resultado |
+| -------- | --------------- | ------- | --------- |
+| +        | Suma            | 3 + 1   | 4         |
+| ---      | Resta           | 3 - 1   | 2         |
+| *        | Multiplicación  | 3 * 2   | 6         |
+| /        | División        | 4 / 2   | 2         |
+| %        | Módulo          | 10 % 3  | 1         |
+| **       | Potencia        | 2 ** 3  | 8         |
+| //       | División entera | 10 // 3 | 3         |
 
 ### Ejemplo:
 ```python
@@ -88,16 +86,15 @@ print(a // b)  # division_entera es 1
 
 Los operadores de comparación se utilizan para comparar dos valores. Devuelven un valor booleano (True o False) como resultado.
 
-________________________________________________________
-| OPERADOR                                             | DESCRIPCIÓN       | EJEMPLO | RESULTADO |
-| ---------------------------------------------------- | ----------------- | ------- | --------- |
-| ==                                                   | Igualdad          | 3 == 2  | False     |
-| !=                                                   | Desigualdad       | 3 != 2  | True      |
-| >                                                    | Mayor que         | 3 > 2   | True      |
-| <                                                    | Menor que         | 3 < 2   | False     |
-| >=                                                   | Mayor o igual que | 3 >= 2  | True      |
-| <=                                                   | Menor o igual que | 3 <= 2  | False     |
-| ____________________________________________________ |
+
+| OPERADOR | DESCRIPCIÓN       | EJEMPLO | RESULTADO |
+| -------- | ----------------- | ------- | --------- |
+| ==       | Igualdad          | 3 == 2  | False     |
+| !=       | Desigualdad       | 3 != 2  | True      |
+| >        | Mayor que         | 3 > 2   | True      |
+| <        | Menor que         | 3 < 2   | False     |
+| >=       | Mayor o igual que | 3 >= 2  | True      |
+| <=       | Menor o igual que | 3 <= 2  | False     |
 
 ### Ejemplo:
 ```python

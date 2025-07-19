@@ -1,6 +1,6 @@
-<h3 align="center">
+<h4 align="center">
 <a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Cápitulo</a>
-</h3>
+</h4>
 
 
 <h1 align="center">
@@ -312,3 +312,8 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 
 >![NOTE]
 >Para este ejercicio tendrás que ejecutar el código desde la terminal de Python y no desde el editor de código.
+
+<br>
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Cápitulo</a>
+</h4>

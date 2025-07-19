@@ -1,3 +1,9 @@
+<br>
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Capítulo</a>
+</h4>
+
+
 <h1 align="center">
 <img src="https://github.com/tecxion/Curso-Python/blob/main/Media/operadores.png">
 </h1>
@@ -174,3 +180,6 @@ print(bool([]))       # Salida: False
     - Comprueba cual de los números es mayor o menor de diferentes formas.
     - Suma al número 1 del usuario el valor de 4 y almacénalo en la misma variable y muestra el resultado.
     - Potencia el número al cubo (3) y asígnalo a la misma variable y muestra el resultado.
+
+
+

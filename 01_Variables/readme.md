@@ -1,5 +1,5 @@
 <h3 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Cápitulo</a>
+<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Cápitulo</a>
 </h3>
 
 

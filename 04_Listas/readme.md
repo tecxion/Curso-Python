@@ -14,8 +14,8 @@
 - [1. Definición](#1-definición)
 - [2. Creación de una lista](#2-creacion)
 - [3. Acceso a una lista](#3-acceso)
- - [3.1 Indexación positiva]()
- - [3.2 Indexación negativa]()
+    - [3.1 Indexación positiva]()
+    - [3.2 Indexación negativa]()
 - [4. Desempaquetado de una lista](#4-desempaquetado)
 - [5. Cortar elementos de una lista](#5-slice)
 

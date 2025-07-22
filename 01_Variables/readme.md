@@ -23,7 +23,8 @@
   * [Funciones Built-in](#builtin)
   * [Ejercicios](#ejercicios)
     * [Ejercicio 1](#ejercicio1)
-    * [Ejercicio 2](#ejercicio2)
+    * [Ejercicio 2](#ejercicios2)
+    * [Ejercicio adicional](#ejercicioadicional)
 
 ---
 
@@ -300,6 +301,8 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 
 
 [Solución](ejercicio2.py)
+
+<a name="ejercicioadicional"></a>
 
 #### Ejercicio adicional
 

@@ -1,6 +1,5 @@
-<br>
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
 </h4>
 
 
@@ -180,6 +179,13 @@ print(bool([]))       # Salida: False
     - Comprueba cual de los números es mayor o menor de diferentes formas.
     - Suma al número 1 del usuario el valor de 4 y almacénalo en la misma variable y muestra el resultado.
     - Potencia el número al cubo (3) y asígnalo a la misma variable y muestra el resultado.
+    - Encuentra la longitud de 'python' y 'camion' y haz una afirmación de comparación falsa.
+    - Utilice el operador and para comprobar si 'on' se encuentra tanto en 'python' como en 'camion'
+    - Pasa la longitud de 'python' a flotante y luego a cadena.
+    - Los números pares son divisibles por 2 y el resto es 0, Comprueba si los números 16 y 23 son pares.
 
+--- 
 
-
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
+</h4>

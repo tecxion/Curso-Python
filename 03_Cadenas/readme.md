@@ -256,7 +256,7 @@ print(cadena[0:10:2]) # Hl ud
 > El Slicing como es conocido en Python es una herramienta muy poderosa para manipular secuencias.
 
 
-<a name="MetodosCadenas"></a>
+<a name="7-metodos-de-cadenas"></a>
 
 ## 7. Metodos de cadenas
 

@@ -4,5 +4,5 @@
 
 
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/">
+<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/listas.png">
 </h1>

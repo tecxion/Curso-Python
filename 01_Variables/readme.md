@@ -313,7 +313,7 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 
 [Solución](ejercicioadicional.py)
 
->![NOTE]
+>[!NOTE]
 >Para este ejercicio tendrás que ejecutar el código desde la terminal de Python y no desde el editor de código.
 
 <br>

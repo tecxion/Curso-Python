@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
 </h4>
 
 

@@ -38,9 +38,9 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 3. [Capítulo 3: Operadores](02_Operadores/readme.md)
    1. [Operadores de asignación](02_Operadores/readme.md/#operadoresasignacion)
 4. [Capítulo 4: Cadenas(Strings)](03_Cadenas/readme.md)
-   1. [Formato de cadenas](03_cadenas/readme.md/5-formateo-de-cadenas)
-   2. [Métodos de los Strings](03_cadenas/readme.md/7-metodos-de-cadenas)
-   3. [Ejercicios](03_cadenas/readme.md/8-ejercicios)
+   1. [Formato de cadenas](03_cadenas/readme.md/#5-formateo-de-cadenas)
+   2. [Métodos de los Strings](03_cadenas/readme.md/#7-metodos-de-cadenas)
+   3. [Ejercicios](03_cadenas/readme.md/#8-ejercicios)
 
 --- 
 

@@ -467,5 +467,8 @@ A continuación te dejo una serie de ejercicios para que practiques lo aprendido
 - `9 // 5 = 1`  
 - `9 ** 5 = 59049`
 
+[Solución Ejercicios del 1 al 21](./cadenas_ejercicios1al21.py)
+[Solución Ejercicios del 22 al 34](./cadenas_ejercicios22al34.py)
+
 
 

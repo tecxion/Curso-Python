@@ -36,7 +36,8 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
       * [Funciones Built-in](01_Variables/readme.md/#builtin)
       * [Ejercicios de repaso](01_Variables/readme.md/#ejercicios)
 3. [Capítulo 3: Operadores](02_Operadores/readme.md)
-     * [Operadores de asignación](02_Operadores/readme.md/#operadoresasignacion)
+   1. [Operadores de asignación](02_Operadores/readme.md/#operadoresasignacion)
+4. [Capítulo 4: Cadenas(Strings)](03_Cadenas/readme.md)
 
 --- 
 

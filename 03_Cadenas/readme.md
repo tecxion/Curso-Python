@@ -471,6 +471,12 @@ A continuación te dejo una serie de ejercicios para que practiques lo aprendido
 [Solución Ejercicios del 22 al 34](./cadenas_ejercicios22al34.py)
 
 <br>
+
+<h3>
+¡Enhorabuena! Ya estás un paso más cerca de aprender Python. ¡Te espero en el siguiente capítulo!
+</h3>
+
+<br>
 <h4 align="center">
 <a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
 </h4>

@@ -314,6 +314,12 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 >Para este ejercicio tendrás que ejecutar el código desde la terminal de Python y no desde el editor de código.
 
 <br>
+<h3>
+¡Enhorabuena! Ya dominas las variables y funciones built-in de Python, a por el siguiente.
+</h3>
+<br>
+
+<br>
 <h4 align="center">
 <a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Capítulo</a>
 </h4>

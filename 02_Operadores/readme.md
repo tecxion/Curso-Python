@@ -186,6 +186,10 @@ print(bool([]))       # Salida: False
 
 --- 
 
+<h3>
+¡Enhorabuena! Aunque se que los operadores son fáciles, hay que contarlos. ¡Te espero en el siguiente capítulo!
+</h3>
+
 <h4 align="center">
 <a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
 </h4>

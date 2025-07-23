@@ -41,6 +41,10 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
    1. [Formato de cadenas](03_Cadenas/readme.md/#5-formateo-de-cadenas)
    2. [Métodos de los Strings](03_Cadenas/readme.md#/7-metodos-de-cadenas)
    3. [Ejercicios](03_Cadenas/readme.md/#8-ejercicios)
+5. [Capítulo 4. Listas](04_Listas/readme.md)
+   1. [Agregar elementos](04_Listas/readme.md/#8-agregar)
+   2. [Ejercicios](04_Listas/readme.md/16-ejercicios)
+
 
 --- 
 

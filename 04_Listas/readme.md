@@ -481,6 +481,9 @@ edad = [19,23,23,54,19,37,32,26,28,22,45]
 - Añade dos edades más y ordenalo de menor a mayor.
 
 
-<h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/listas.png">
-</h1>
+
+
+
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Siguiente Capítulo</a>
+</h4>

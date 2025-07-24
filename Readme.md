@@ -14,8 +14,7 @@
 Bienvenidos este curso donde aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curso voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios y este lenguaje es algo que con la IA se le está dando mucha importancia por lo que voy a aprenderlo y ayudar a otras personas a que lo aprendan.
 
 <h1 align="center">
-   <a href="https://youtube.com/@tx-dron-avistadedron">
-<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+   ¿Algún error? Contacta por correo: <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"><br>
    <br>
    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tecxion/Curso-python">
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">

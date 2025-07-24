@@ -25,7 +25,8 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
 </h3>
 <h4 align="center">
    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> <br>
-   ¿Algún error?  o cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com<a href="mailto:tecxart@gmail.com">Contacta</a><br>
+   ¿Algún error?  o cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com <br>
+   <a href="mailto:tecxart@gmail.com"> Contacta </a><br>
     
 <br>
 </h4>

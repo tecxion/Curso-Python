@@ -21,11 +21,14 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
    <img alt="GitHub License" src="https://img.shields.io/github/license/tecxion/Curso-Python">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tecxion/Curso-Python">
 <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion"><br>
-   
+   <br>
+</h3>
+<h4 align="center">
 ¿Algún error? Contacta por correo: <br>
 <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"><br></a>
 <br>
-</h3>
+</h4>
+
 
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com

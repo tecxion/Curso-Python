@@ -14,20 +14,18 @@
 Bienvenidos este curso donde aprenderemos a programar en python, no soy experto en ello y a la vez que genero este pequeño curso voy aprendiendo a programar en python, actualmente se java y dart como se puede observar en los repositorios y este lenguaje es algo que con la IA se le está dando mucha importancia por lo que voy a aprenderlo y ayudar a otras personas a que lo aprendan.
 
 <h3 align="center">
-   ¿Algún error? Contacta por correo: <br>
-   <a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"><br>
-   <br>
    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tecxion/Curso-python">
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tecxion/Curso-python">
    <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/tecxion/Curso-python/main/0d35092">
    <img alt="GitHub License" src="https://img.shields.io/github/license/tecxion/Curso-Python">
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tecxion/Curso-Python">
-<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
-
-</a>
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion"><br>
+   
+¿Algún error? Contacta por correo: <br>
+<a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"><br></a>
+<br>
 </h3>
-
 
 >[!NOTE]
 >Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com

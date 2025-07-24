@@ -13,11 +13,12 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tecxion/Curso-python">
    <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/tecxion/Curso-python/main/0d35092">
-
+   <img alt="GitHub License" src="https://img.shields.io/github/license/tecxion/Curso-Python">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tecxion/Curso-Python">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
 
 </a>
 </h1>
-
 
 
 >[!NOTE]

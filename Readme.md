@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/python.png">
+<img src="https://github.com/tecxion/TecXion/blob/main/Media/cursopython.png">
 
 </h1>
 

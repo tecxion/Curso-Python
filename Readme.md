@@ -9,7 +9,10 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
    <a href="https://youtube.com/@tx-dron-avistadedron">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
    <br>
-   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
+   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tecxion/Curso-python">
+ <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tecxion/Curso-python">
+
 </a>
 </h1>
 

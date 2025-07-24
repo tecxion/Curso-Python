@@ -8,6 +8,8 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
 <h1 align="center">
    <a href="https://youtube.com/@tx-dron-avistadedron">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+   <br>
+   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
 </a>
 </h1>
 

@@ -1,3 +1,8 @@
+![Static Badge](https://img.shields.io/badge/Python%20-%203.15%20-%20red?style=for-the-badge&logo=python&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub%20-%20approved%20-%20light%20green?style=for-the-badge&logo=github&logoSize=auto&labelColor=black)
+
+
+
 <h1 align="center">
 <img src="https://github.com/tecxion/Curso-Python/blob/main/Media/python.png">
 

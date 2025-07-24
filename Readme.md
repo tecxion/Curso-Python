@@ -24,17 +24,16 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
    <br>
 </h3>
 <h4 align="center">
-¿Algún error? Contacta por correo: <br>
-<a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"><br></a>
+   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"> <br>
+   ¿Algún error?  o cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com<a href="mailto:tecxart@gmail.com">Contacta</a><br>
+    
 <br>
 </h4>
 
 
->[!NOTE]
->Cualquier duda puedes ponerte conmigo en contacto en mi mail en tecxart@gmail.com
->Al final de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
+<br>
+- Al _final_ [^1] de este readme teneis recursos que os pueden ayudar a aprender o mejorar en este lenguaje.
 
-**Recursos al pie del readme[^1].**
 
 ---
 

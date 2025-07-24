@@ -1,5 +1,13 @@
+<h4 align="center">
+   
+![Static Badge](https://img.shields.io/badge/Python%20-%203.15%20-%20red?style=for-the-badge&logo=python&logoSize=auto&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub%20-%20approved%20-%20light%20green?style=for-the-badge&logo=github&logoSize=auto&labelColor=black)
+
+</h4>
+
+
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/python.png">
+<img src="https://github.com/tecxion/TecXion/blob/main/Media/cursopython.png">
 
 </h1>
 
@@ -8,9 +16,17 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
 <h1 align="center">
    <a href="https://youtube.com/@tx-dron-avistadedron">
 <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="" />  </a><a href="mailto:tecxart@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
+   <br>
+   <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tecxion/Curso-python">
+ <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
+   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tecxion/Curso-python">
+   <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/tecxion/Curso-python/main/0d35092">
+   <img alt="GitHub License" src="https://img.shields.io/github/license/tecxion/Curso-Python">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/tecxion/Curso-Python">
+<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
+
 </a>
 </h1>
-
 
 
 >[!NOTE]

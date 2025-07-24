@@ -12,6 +12,8 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
    <img alt="GitHub Created At" src="https://img.shields.io/github/created-at/tecxion/Curso-python">
  <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/tecxion/Curso-Python">
    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tecxion/Curso-python">
+   <img alt="GitHub commit merge status" src="https://img.shields.io/github/commit-status/tecxion/Curso-python/main/0d35092">
+
 
 </a>
 </h1>

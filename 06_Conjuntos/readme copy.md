@@ -1,22 +1,26 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/07_Diccionarios/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/06_Conjuntos/readme.md">Siguiente Capítulo</a>
 </h4>
 
 
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/sets.png">
+<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/tuplas.png">
 </h1>
 
-<h1 align="center">Diccionarios</h1><br>
+<h1 align="center">Tuplas</h1><br>
 
-# Sets
+<h4>Índice</h4>
 
-
-## Índice
-
-
-
-<a name ="1-descripción"></a>
+- [1. Descripción.](#1-descripción)
+- [2. Creando un conjuntos.](#2-creando-un-conjuntos)
+- [3. Obtener la longitud del conjunto](#3-obtener-la-longitud-del-conjunto)
+- [4. Acceder a los elementos de un conjunto](#4-acceder-a-los-elementos-de-un-conjunto)
+- [5. Comprobar un elemento](#5-comprobar-un-elemento)
+- [6. Agregar elementos a un conjunto.](#6-agregar-elementos-a-un-conjunto)
+- [7. Eliminar elementos de un conjunto.](#7-eliminar-elementos-de-un-conjunto)
+  - [7.1 Limpiar un conjunto](#71-limpiar-un-conjunto)
+  - [7.2 Eliminar un conjunto](#72-eliminar-un-conjunto)
+- [8. Convertir una lista en un conjunto](#8-convertir-una-lista-en-un-conjunto)
 
 
 ## 1. Descripción.

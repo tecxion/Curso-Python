@@ -9,26 +9,19 @@
 
 <h1 align="center">Diccionarios</h1><br>
 
-# Sets
-
-
 ## Índice
 
 
 [1. Descripción](#1-descripción)
 [2. Creando un conjunto](#2-creando-un-conjuntos)
-[3. Obtener la longitud del conjunto](#3-obtener-la-longitud-del-conjunto)<br>
-[4. Acceder a los elementos de un conjunto](#4-acceder-a-los-elementos-de-un-conjunto)<br>
-[5. Comprobar un elemento](#5-comprobar-un-elemento)<br>
-[6. Agregar elementos a un conjunto.](#6-agregar-elementos-a-un-conjunto)<br>
-[7. Eliminar elementos de un conjunto](#7-eliminar-elementos-de-un-conjunto)<br>
-    [7.1 Limpiar un conjunto](#71-limpiar-un-conjunto)<br>
-    [7.2 Eliminar un conjunto](#72-eliminar-un-conjunto)<br>
-[8. Convertir una lista en un conjunto](#8-convertir-una-lista-en-un-conjunto)<br>
-
-
-
-
+[3. Obtener la longitud del conjunto](#3-obtener-la-longitud-del-conjunto)
+[4. Acceder a los elementos de un conjunto](#4-acceder-a-los-elementos-de-un-conjunto)
+[5. Comprobar un elemento](#5-comprobar-un-elemento)
+[6. Agregar elementos a un conjunto.](#6-agregar-elementos-a-un-conjunto)
+[7. Eliminar elementos de un conjunto](#7-eliminar-elementos-de-un-conjunto)
+    [7.1 Limpiar un conjunto](#71-limpiar-un-conjunto)
+    [7.2 Eliminar un conjunto](#72-eliminar-un-conjunto)
+[8. Convertir una lista en un conjunto](#8-convertir-una-lista-en-un-conjunto)
 
 
 <a name ="1-descripción"></a>

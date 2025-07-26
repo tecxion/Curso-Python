@@ -185,7 +185,7 @@ todos_alumnos = alumnos + alumnos_clase
 print(todos_alumnos) # ('Pedro', 'Ana', 'Jorge', 'Rodrigo', 'Tamara')
 ```
 
-<a name = "9-eliminar-tuplas>
+<a name = "9-eliminar-tuplas"></a>
 
 ## 9. Eliminar tuplas
 

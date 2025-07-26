@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/07_Conjuntos/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/06_Conjuntos/readme.md">Siguiente Capítulo</a>
 </h4>
 
 
@@ -16,6 +16,11 @@
 - [3. Lóngitud de una tupla](#3-lóngitud-de-una-tupla)
 - [4. Acceso a los elementos de una tupla](#4-acceso-a-los-elementos-de-una-tupla)
 - [5. Cortar tuplas](#5-cortar-tuplas)
+- [6. Cambiar tuplas a listas](#6-cambiar-tuplas-a-listas)
+- [7. Como comprobar un elemento en una tupla](#7-como-comprobar-un-elemento-en-una-tupla)
+- [8. Unir tuplas](#8-unir-tuplas)
+- [9. Eliminar tuplas](#9-eliminar-tuplas)
+- [10. Ejercicios.](#10-ejercicios)
 
 
 
@@ -128,4 +133,97 @@ print(todos)
 print(ana_maria)
 ```
 
+<a name = "6-cambiar-tuplas-a-listas"></a>
 
+## 6. Cambiar tuplas a listas
+
+Podemos hacer cambios tanto de tuplas a listas como de listas a tuplas, como bien sabemos las tuplas son inmutables por lo que para modificarla debemos pasarla a una lista.
+
+```python
+# Sintaxis
+tupla = ("elemento_1", "elemento_2", "elemento_3")
+lista = list(tupla)
+
+# Ejemplo
+alumnos = ("Juan", "Maria", "Pedro", "Luis", "Ana")
+print(alumnos)
+print(type(alumnos))
+alumnos = list(alumnos)
+print(alumnos)
+print(type(alumnos))
+```
+
+<a name="7-como-comprobar-un-elemento-en-una-tupla"></a>
+
+## 7. Como comprobar un elemento en una tupla
+
+Para comprobar si un elemento está contenido en una tupla usamos al igual que en las listas _in_, devuelve un valor booleano, ejemplo.
+
+```python
+# Sintaxis
+tupla = ("elemento_1", "elemento_2", "elemento_3")
+"elemento_2" in tupla # True
+# Ejemplo
+alumnos = ("Pepe", "Luis", "Alfredo")
+print("Alfredo" in alumnos) #True
+```
+
+<a name="8-unir-tuplas"></a>
+
+## 8. Unir tuplas
+
+Si queremos unir tuplas en una tupla nueva podemos usar el operador _+_, ejemplo.
+```python
+# Sintaxis
+tupla = ("elemento_1", "elemento_2")
+tupla_2 = ("elemento_3", "elemento_4")
+tupla_3 = tupla + tupla_2
+# Ejemplo
+alumnos = ("Pedro", "Ana")
+alumnos_clase = ("Jorge", "Rodrigo", "Tamara")
+todos_alumnos = alumnos + alumnos_clase
+print(todos_alumnos) # ('Pedro', 'Ana', 'Jorge', 'Rodrigo', 'Tamara')
+```
+
+<a name = "9-eliminar-tuplas>
+
+## 9. Eliminar tuplas
+
+Como bien sabemos las tuplas son inmutables y no podemos modificar sus elementos, pero si podemos eliminar la tupla completa, para ello usamos _del_, ejemplo.
+```python
+# Sintaxis
+tupla = ("elemento_1", "elemento_2")
+del tupla
+# Ejemplo
+alumnos = ("Pedro", "Silvia")
+del alumnos
+print(alumnos) # Da error NameError: name 'alumnos' is not defined
+```
+
+<h3 align = "center">
+👌 !Genial! Ya casi has acabado con las tuplas, vamos a por unos ejercicios.
+</h3>
+
+<a name = "10-ejercicios"></a>
+
+## 10. Ejercicios.
+
+- Crear una tupla vacía
+- Crea una tupla que contenga los nombres de 4 paises de Europa y otra de América que tenga nombres tanto del Norte como del Sur.
+  - Comprueba si dentro de Europa está `España` y `Alemania`
+  - Comprueba si dentro de América está `Argentina` y `Colombia`
+- Une ambas tuplas en una que se llame mundo.
+- ¿Cuántos paises hay?
+- Modifica la tupla América y añade dos paises más.
+- Cambia la tupla america a una lista.
+- Separa el primer y el último elemento de la tupla europa.
+- Elimina la tupla europa.
+
+[Solución a los ejercicios](./Ejercicio.py)
+
+
+🤩 ¡Perfecto! Ya sabes mucho sobre tuplas, vamos a por lo siguiente, Conjuntos.
+
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/06_Conjuntos/readme.md">Siguiente Capítulo</a>
+</h4>

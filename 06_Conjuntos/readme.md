@@ -390,6 +390,7 @@ edad = [21, 23, 30, 31, 25, 22, 21, 26, 30, 22, 19, 27, 23]
 - Elimina el conjunto companias por completo.
 - convierte edad a un conjunto y compara la longitud, ¿Cúal es más grande?
 
+[Ver las soluciones](./ejercicios.py)
 
 <h3>
 Ya estás preparado para el siguiente tema, vas por buen camino.

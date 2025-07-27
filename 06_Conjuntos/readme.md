@@ -7,7 +7,7 @@
 <img src="https://github.com/tecxion/Curso-Python/blob/main/Media/sets.png">
 </h1>
 
-<h1 align="center">Diccionarios</h1><br>
+<h1 align="center">Conjuntos</h1><br>
 
 <h4>Índice</h4>
 

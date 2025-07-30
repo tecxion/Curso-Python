@@ -65,6 +65,7 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
 7. [Conjuntos (Sets)](06_Conjuntos/readme.md)
    1. [Ejercicios](06_Conjuntos/readme.md/#14-ejercicios)
 8. [Diccionarios](07_Diccionarios/readme.md)
+   1. [Ejercicios](07_Diccionarios/readme.md/#13-ejercicios)
 
 
 --- 

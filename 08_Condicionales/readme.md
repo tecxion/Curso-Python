@@ -92,6 +92,7 @@
 
 <h2 align="center">
 Creo que es buen momento para recordar que si quieres puede ayudarme a seguir subiendo cursos apoyándome con un café<br>
+<br>
    <a href="https://paypal.me/jfmpkiko">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">
 

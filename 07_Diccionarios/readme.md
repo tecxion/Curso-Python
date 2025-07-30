@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/07_Diccionarios/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/06_Conjuntos/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Siguiente Capítulo</a>
 </h4>
 
 
@@ -409,5 +409,5 @@ print(valores_alumno_1) # dict_values(['Pepe', 'Gomez', 23, 'Espa�a', ['Mates'
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/07_Diccionarios/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/06_Conjuntos/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Siguiente Capítulo</a>
 </h4>

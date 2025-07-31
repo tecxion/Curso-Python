@@ -18,7 +18,7 @@
 - [2. If.](#2-if)
 - [3. If else.](#3-if-else)
 - [4. If Elif Else.](#4-if-elif-else)
-- [5. Short Hando o atajos.](#5-short-hando-o-atajos)
+- [5. Short Hands o atajos.](#5-short-hands-o-atajos)
 - [6. Condiciones anidadas.](#6-condiciones-anidadas)
 - [7. Operadores lógicos](#7-operadores-lógicos)
   - [7.1 If y and](#71-if-y-and)
@@ -61,7 +61,7 @@ En el caso del _if_ y el _else_ esto quiere decir que si el bloque _if_ no se ej
 if condicion:
     Se ejecuta esta parte
 else:
-    Si no es verdadera el if se ejecutará esta otra parte
+    Si el if no se cumple, se ejecutará esta otra parte
 # Ejemplo
 a = 5
 if a < 0:
@@ -95,9 +95,9 @@ else:
 # En este caso no se cumplen ni el if ni el elif por lo que se ejecuta el else, prueba a cambiar el valor de a.
 ```
 
-<a name="5-short-hando-o-atajos"></a>
+<a name="5-short-hands-o-atajos"></a>
 
-## 5. Short Hando o atajos.
+## 5. Short Hands o atajos.
 
 También podemos escribir el condicional en una sola línea ya que python está diseñado para ser un lenguaje mas simple que JAVA, ejemplo:
 ```python

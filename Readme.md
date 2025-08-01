@@ -203,8 +203,6 @@ Una vez que tengas VS Code instalado, sigue estos pasos para configurarlo para t
 3. Busca "Python" en la barra de búsqueda.
 4. Encuentra la extensión oficial de Python (publicada por Microsoft) y haz clic en **Instalar**.
 
-![Extensión de Python](https://code.visualstudio.com/assets/docs/python/tutorial/python-extension.png )
-
 ### 2.2. Selecciona el Intérprete de Python
 
 1. Abre la paleta de comandos presionando `Ctrl+Shift+P` (o `Cmd+Shift+P` en macOS).

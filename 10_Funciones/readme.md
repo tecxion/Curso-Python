@@ -24,7 +24,7 @@
 - [10. Ejercicios.](#10-ejercicios)
 
 >[!IMPORTANT]
->Para ejecutar las funciones no podrás hacerlo por la "SALIDA" tendrás que ejecutarlos por la terminal, navegando a la carpeta que tienes tu archivo .py o ejecutando una terminal en la misma carpeta.
+>Para ejecutar las funciones no podrás hacerlo por la "SALIDA" tendrás que ejecutarlos por la terminal, navegando a la carpeta que tienes tu archivo .py o ejecutando una terminal en la misma carpeta. [ver comandos terminal](../comandos.md)
 
 <a name = "1-definición-de-función"></a>
 

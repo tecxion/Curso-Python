@@ -240,6 +240,11 @@ Ahora que tienes VS Code configurado, puedes crear y ejecutar archivos Python f�
 
 Con tu donación puedes ayudarme a generar más contenido y proyectos, como menciono en mi [perfil de github](https://github.com/tecxion) no me dedico a ello con lo que mis ingresos son de otra fuente y no puedo dedicarle el tiempo que me gustaría, gracias por tu apoyo.
 
+--- 
+
+## A continuación te dejo una breve guía de comandos para manejarte por la terminal de windows, mac y linux ya que los necesitarás sobre todo para ejecutar los archivos .py si lo haces desde la terminal.
+
+[Lista de comandos](./comandos.md)
 
 [^1]: Recursos: - Documentación de Python: [Visitar](https://docs.python.org/es/3.13/contents.html) / [Juego aprender python (Codedex)](https://www.codedex.io/) / [GitHub Mouredev](https://github.com/mouredev/Hello-Python) / y para mi el mejor repositorio pero en lengua inglesa [Asabeneh](https://github.com/Asabeneh/30-Days-Of-Python)
 

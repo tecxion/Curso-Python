@@ -23,8 +23,8 @@
   - [4.3 Bucle for con tuplas](#43-bucle-for-con-tuplas)
   - [4.4 Bucle for con Conjuntos](#44-bucle-for-con-conjuntos)
   - [4.5 Bucle for con Diccionario](#45-bucle-for-con-diccionario)
-- [4.6 Bucle for con break](#46-bucle-for-con-break)
-- [4.7 Bucle for con Continue](#47-bucle-for-con-continue)
+  - [4.6 Bucle for con break](#46-bucle-for-con-break)
+  - [4.7 Bucle for con Continue](#47-bucle-for-con-continue)
 - [5. Función Range](#5-función-range)
 - [6. Bucle For anidado](#6-bucle-for-anidado)
 - [7. For Else](#7-for-else)
@@ -212,7 +212,7 @@ for clave, valor in alumno_1.items():
 
 <a name = "46-bucle-for-con-break" ></a>
 
-## 4.6 Bucle for con break
+### 4.6 Bucle for con break
 
 Al igual que con el while, el break con el bucle for lo que hace es salir de la iteración.
 ```python
@@ -232,7 +232,7 @@ for numero in numeros:
 
 <a name ="47-bucle-for-con-continue"></a>
 
-## 4.7 Bucle for con Continue
+### 4.7 Bucle for con Continue
 
 Usaremos _continue_ cuando queramos omitir alguno de los pasos del bucle for
 ```python

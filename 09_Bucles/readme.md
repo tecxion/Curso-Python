@@ -7,7 +7,7 @@
 </h1>
 
 
-<h1 align="center">Condicionales</h1><br>
+<h1 align="center">Bucles</h1><br>
 
 
 <h4>Índice</h4>

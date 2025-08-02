@@ -132,11 +132,80 @@ def alumno(): # Función alumno sin parámetros
     return nombre_completo
 ```
 
+- Las funciones pueden devolver diferentes tipos de datos, por ejemplo.
+
+* Devolviendo una cadena.
+```python
+def imprimir_nombre(mi_nombre):
+    return mi_nombre
+imprimir_nombre("Pepito")
+
+def imprimir_nombre_completo(nombre, apellido):
+    nombre_completo = (f"{nombre} {apellido}")
+    return nombre_completo
+print(imprimir_nombre_completo(nombre="Marcos", apellido="Blanco"))
+
+```
+
+* Devolviendo un número
+```python
+# Ejemplo
+def suma(a, b):
+    total = a + b
+    return total
+print(suma(3, 5))
+```
+
+* Devolviendo un booleano
+```python
+def es_par(a):
+    if a % 2 == 0:
+        print("es par")
+        return True
+    return False
+print("3 es par?", es_par(3))
+print("6 es par?", es_par(6))
+```
+
+* Devolviendo una lista
+```python
+def num_pares(a):
+    pares = []
+    for i in range(a+1):
+        if i % 2 == 0:
+            pares.append(i)
+    return pares
+print(num_pares(20))
+```
 
 <a name = "6-función-con-parámetros-predeterminados" ></a>
 
 ## 6. Función con parámetros predeterminados
 
+Hay veces que la función lleva parámetros asociados y a estos parámetros le damos unos valores predeterminados, sobre todo ya que si una función tiene un parámetro y no se le asigna un valor nos dará error, para eso se usan los parámetros predeterminados, ejemplo.
+```python
+# Sintaxis
+# Declarando la función
+def funcion(param = valor):
+    código
+# Llamada a la función, tenemos dos formas
+funcion() # sin parámetro inicial que tomara el valor del parámetro predeterminado
+funcion(param) # con un parámetro dado.
+# Ejemplo
+def saludo(nombre = "alumno"):
+    mensaje = nombre + ", Bienvenido al Curso Python"
+    return mensaje
+print(saludo()) # Sin parámetro
+print(saludo("Pedro")) # Con parámetro
+```
+
+>[!NOTE]
+>Indicar que las funciones con parámetros predeterminados puede también tener uno predeterminado y otro no, dos predeterminados, etc. Dependerá de lo que realice esa función pero tener en cuenta que si los parámetros de la función no tienen valor y es requerido dará error.
+>```python
+>def funcion_error(a):
+>    resta = 100 - a
+>    return resta
+>print(funcion_error()) # al no tener parámetro y ser necesario da error.
 
 <a name = "7-número-arbitrario-de-argumentos" ></a>
 

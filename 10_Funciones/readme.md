@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/09_Bucles/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Modulos/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/09_Bucles/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Siguiente Capítulo</a>
 </h4>
 
 <h1 align="center">
@@ -297,5 +297,5 @@ Has llegado al final de las Funciones, vamos a por unos ejercicios a ver que tal
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/09_Bucles/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Modulos/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/09_Bucles/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Siguiente Capítulo</a>
 </h4>

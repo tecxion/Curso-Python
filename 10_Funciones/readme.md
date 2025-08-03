@@ -207,40 +207,91 @@ print(saludo("Pedro")) # Con parámetro
 >    return resta
 >print(funcion_error()) # al no tener parámetro y ser necesario da error.
 
+
+
 <a name = "7-número-arbitrario-de-argumentos" ></a>
 
 ## 7. Número arbitrario de argumentos
+
+Si no sabemos el número de argumentos que va a tener esa función hay que añadir **_*_** antes del nombre del parámetro, ejemplo.
+```python
+# Sintaxis
+# Declaración de la función
+def funcion(*arg):
+    código
+# Llamada a la función
+funcion(param_1, param_2, param_3)
+
+# Ejemplo
+def suma_numeros(*numeros):
+    total = 0
+    for numero in numeros:
+        total += numero
+    return total
+print(suma_numeros(3, 5, 1)) # 9
+```
 
 <a name = "8-número-predeterminado-y-arbitrario-de-parámetros" ></a>
 
 ## 8. Número predeterminado y arbitrario de parámetros
 
+También podemos tener en una función un número predeterminado y otro arbitrário de parámetros, ejemplo.
+```python
+# Ejemplo
+def equipos(equipo, *nombres):
+    print(equipo)
+    for i in nombres:
+        print(i)
+print(equipos("equipo 1", "Pepe", "Claudia", "Romeo", "Adria"))
+print(equipos("equipo 2", "Luisa", "Carla", "Rodrigo", "Kent"))
+```
 
 <a name = "9-función-como-parámetro-de-otra-función" ></a>
 
 ## 9. Función como parámetro de otra función
 
+Como parámetro de una función puede ser otra función, veámoslo con un ejemplo.
+```python
+def alumnos (nombre_alumno, clase = "clase 1"):
+    return (f"Hola, {nombre_alumno} estás en la clase {clase}")
+def nombre():
+    tu_nombre = input("Dime tu nombre: ")
+    return tu_nombre
+print(alumnos(nombre(), "clase 2"))
+# En este código podemos ver como al llamar a una función llamamos otra función
+# y la pasamos como argumento a esa función.
+```
+
+<h3>
+Has llegado al final de las Funciones, vamos a por unos ejercicios a ver que tal.
+</h3>
 
 <a name = "10-ejercicios" ></a>
 
 ## 10. Ejercicios.
 
+- Crea una función que obtenga dos números como parámetros y devuelva la suma.
+- Escribe una función que calcule el área de un triángulo (bxa)/2. se le pasará como argumentos la base y la altura.
+- Crea una función que pase los metros a pulgadas (1m = 39,37 pulgadas).
+- Crea una función que pasado un mes devuelva la época del año que es.
+- Escribe una función que tome una lista como parámetro e imprima cada elemento.
+- Crea una función que tome como parámetro una lista y añada un elemento al final de la lista.
+  ```python
+  lista = ["Apple", "Samsung", "Xiaomi", "Oppo"]
+  ```
+- Crea una función que sume todos los números hasta llegar al número introducido.
+- Crea una función que diga el número de pares que hay entre el 0 y el número introducido.
+- Crea una función que diga el número de impares que hay entre el 0 y el número introducido.
+- Escribe una función que diga si todos los elementos de una lista son únicos.
+  ```python
+    alumnos_1 = ["Juan", "Almudena", "Carmen", "Manuel"]
+    alumnos_2 = ["Sancho", "Pedro", "Marta", "Pablo", "Sancho"]
+  ```
 
+- Te animo a que hagas el enunciado de un ejercicio de funciones y lo compartas para ir añadiéndolo al repositorio Principal.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Ejercicios de los usuarios:
+  * Crea una calculadora simple ( TecXion )
 
 
 

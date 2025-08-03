@@ -243,6 +243,11 @@ Ahora que tienes VS Code configurado, puedes crear y ejecutar archivos Python f�
 
 Con tu donación puedes ayudarme a generar más contenido y proyectos, como menciono en mi [perfil de github](https://github.com/tecxion) no me dedico a ello con lo que mis ingresos son de otra fuente y no puedo dedicarle el tiempo que me gustaría, gracias por tu apoyo.
 
+<h1 align="center">
+   <a href="https://paypal.me/jfmpkiko">
+<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal" />  </a><a href="https://coff.ee/tecxart"><img src="https://github.com/tecxion/TecXion/blob/main/Media/cafe1.png" alt="Cafe">   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/tecxion/tecxion">    <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tecxion">
+
+   
 --- 
 
 ## A continuación te dejo una breve guía de comandos para manejarte por la terminal de windows, mac y linux ya que los necesitarás sobre todo para ejecutar los archivos .py si lo haces desde la terminal.

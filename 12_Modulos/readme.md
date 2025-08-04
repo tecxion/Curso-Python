@@ -144,7 +144,7 @@ os.getcwd()
 os.rmdir()
 ```
 
-<a name = "11-documento-relacionado-con-módulo-os" ></a>
+<a name = "211-documento-relacionado-con-módulo-os" ></a>
 
 ###### 2.1.1 Documento Relacionado con módulo os
 

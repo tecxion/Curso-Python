@@ -19,15 +19,15 @@
   - [1.5 Importar funciones desde un módulo y cambiar el nombre](#15-importar-funciones-desde-un-módulo-y-cambiar-el-nombre)
 - [2. Importar módulos integrados](#2-importar-módulos-integrados)
   - [2.1 Módulos del sistema operativo](#21-módulos-del-sistema-operativo)
-        - [2.1.1 Documento Relacionado con módulo os](#211-documento-relacionado-con-módulo-os)
+      - [2.1.1 Documento Relacionado con módulo os](#211-documento-relacionado-con-módulo-os)
   - [2.2 Módulos del sistema](#22-módulos-del-sistema)
       - [2.2.1 Documento relacionado con módulo sys.](#221-documento-relacionado-con-módulo-sys)
   - [2.3 Módulos de estadísticas](#23-módulos-de-estadísticas)
-        - [2.3.1 Ver archivo relacionado del módulo statistics](#231-ver-archivo-relacionado-del-módulo-statistics)
+      - [2.3.1 Ver archivo relacionado del módulo statistics](#231-ver-archivo-relacionado-del-módulo-statistics)
   - [2.4 Módulo de matemáticas](#24-módulo-de-matemáticas)
       - [2.4.1 Datos útiles del módulo math](#241-datos-útiles-del-módulo-math)
   - [2.5 Módulo de cadenas](#25-módulo-de-cadenas)
-        - [2.5.1 datos útiles del módulo](#251-datos-útiles-del-módulo)
+      - [2.5.1 datos útiles del módulo](#251-datos-útiles-del-módulo)
   - [2.6 Módulo aleatorio](#26-módulo-aleatorio)
       - [2.6.1 Datos útiles del módulo](#261-datos-útiles-del-módulo)
 - [3. Ejercicios](#3-ejercicios)
@@ -146,7 +146,7 @@ os.rmdir()
 
 <a name = "211-documento-relacionado-con-módulo-os" ></a>
 
-###### 2.1.1 Documento Relacionado con módulo os
+##### 2.1.1 Documento Relacionado con módulo os
 
 - [Ver módulo](./modulos_integrados/os.md)
 
@@ -188,7 +188,7 @@ print(stdev(edades))
 
 <a name = "231-ver-archivo-relacionado-del-módulo-statistics" ></a>
 
-###### 2.3.1 Ver archivo relacionado del módulo statistics
+##### 2.3.1 Ver archivo relacionado del módulo statistics
 
 -[Ver Archivo](./modulos_integrados/statistics.md)
 
@@ -229,7 +229,7 @@ print(string.punctuation)   # !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 <a name = "251-datos-útiles-del-módulo"></a>
 
-###### 2.5.1 datos útiles del módulo 
+##### 2.5.1 datos útiles del módulo 
 - [Ver módulo](./modulos_integrados/string.md)
 
 <a name = "26-módulo-aleatorio" ></a>

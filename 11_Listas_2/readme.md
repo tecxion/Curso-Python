@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Siguiente Capítulo</a>
 </h4>
 
 <h1 align="center">
@@ -95,52 +95,67 @@ lambda argumentos: expresion
 
 ### 2.1 Creación de una función Lambda
 
-Para crear una función lambda, usamos la palabra clave lambda seguida de uno o más parámetros y, a continuación, de una expresión.
+Para crear una función lambda, usamos la palabra clave lambda seguida de uno o más parámetros y, a continuación, de una expresión.<br>
 La función lambda no utiliza el método de retorno, sino que devuelve explícitamente la expresión.
+```python
+# Syntaxis
+x = lambda param_1, param_2, param_3: param_1 + param_2 + param_3
+print(x(arg_1, arg_2, arg_3))
+# Función normal
+def sumar(a, b):
+    return a + b
+print(sumar(2,3))
+# Ahora la función lambda
+sumar_2 = lambda a, b: a + b
+print(sumar_2(3,4))
+```
+
 
 <a name = "22-función-lambda-dentro-de-otra-función"></a>
 
 ### 2.2 Función Lambda dentro de otra función
+
+La función Lambda se puede usar también dentro de otra función, veámos.
+```python
+def elevar(num):
+    return lambda x : num ** x
+cuadrado = elevar(5)(2)
+print(cuadrado)
+cubo = elevar(5)(3)
+print(cubo)
+```
+
+<h3 align = "center" >¿Hasta aquí bien verdad? espero que te este ayudando este pequeño curso de python, ¡Sigue así que el final cada vez está mas cerca!</h3>
 
 
 <a name = "3-ejercicios" ></a>
 
 ## 3. Ejercicios.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Filtra solo números pares de esta lista usando comprensión de listas.
+```python
+numeros = [-3, - 6, -1, -8, 2, 4, 6, 1, 7, 11, 83, 56]
+```
+- Aplana el siguiente array en una lista usando comprensión de listas.
+```python
+array_lista = [[[1, 2, 3], [4, 5, 6], [7, 8, 0]]]
+```
+- Aplana la siguiente lista.
+```python
+lenguajes = [[("Python", "Java")], [("C++", "C#")], [("Ensamblador", "Maquina")]]
+# Salida ["Python", "Java", "C++", "C#", "Ensamblador", "Maquina"]
+```
+- Cambia la siguiente lista a una lista de Diccionarios.
+```python
+provincias = [[("La Rioja", "Logroño")], [("Alava", "Vitoria")], [("Madrid", "Madrid")]]
+# Salida
+[{"Provincia": "La Rioja", "Ciudad": "Logroño"},{"Provincia": "Alava", "Ciudad": "Vitoria"}, {"Provincia": "Madrid", "Ciudad": "Madrid"}]
+```
+- Crea una función lambda que calcule el área de un triángulo.
 
 
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Siguiente Capítulo</a>
 </h4>

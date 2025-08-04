@@ -153,7 +153,7 @@ provincias = [[("La Rioja", "Logroño")], [("Alava", "Vitoria")], [("Madrid", "M
 ```
 - Crea una función lambda que calcule el área de un triángulo.
 
-
+[Solución ejercicios](./ejercicios.py)
 
 
 <h4 align="center">

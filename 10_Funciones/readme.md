@@ -293,7 +293,7 @@ Has llegado al final de las Funciones, vamos a por unos ejercicios a ver que tal
 * Ejercicios de los usuarios:
   * Crea una calculadora simple ( TecXion )
 
-
+[Ver solución](./ejercicios.py)
 
 
 <h4 align="center">

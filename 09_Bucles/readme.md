@@ -392,6 +392,7 @@ paises_por_continente = {
 }
 ```
 
+[Solución ejercicios](./readme.md)
 
 
 <h4 align="center">

@@ -202,6 +202,8 @@ peliculas = {
 }
 ```
 
+[Solución ejercicios](./readme.md)
+
 <h3 align="center">
 ¡Perfecto! Llegaste al final de los condicionales epero que hasta aquí todo bien, y si tienes alguna duda, viste algún error contacta conmigo. ¡Gracias!
 </h3>

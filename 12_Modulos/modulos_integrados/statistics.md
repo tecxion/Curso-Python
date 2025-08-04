@@ -58,4 +58,4 @@ print("Varianza:", statistics.variance(datos))  # 4.571
 ✔ Usa statistics para cálculos rápidos y simples.
 ✔ Usa numpy/pandas para datos masivos o análisis complejos.
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#23-módulos-de-estadísticas)

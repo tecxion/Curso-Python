@@ -82,4 +82,4 @@ if not os.path.exists(ruta_archivo):
     print(f"\nEl archivo {ruta_archivo} no existe")
 ```
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#21-módulos-del-sistema-operativo)

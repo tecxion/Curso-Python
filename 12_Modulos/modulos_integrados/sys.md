@@ -67,4 +67,4 @@ elif sys.platform == 'darwin':
 
 ```
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#221-documento-relacionado-con-módulo-sys)

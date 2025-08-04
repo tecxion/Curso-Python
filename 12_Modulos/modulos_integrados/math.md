@@ -46,4 +46,4 @@ A continuación están las funciones más utilizadas del módulo math y una brev
 | math.gcd(a, b)    | math.gcd(36, 60)  | 12        | Máximo común divisor       |
 
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#24-módulo-de-matemáticas)

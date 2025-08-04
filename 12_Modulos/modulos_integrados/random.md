@@ -64,4 +64,4 @@ print(f"Contraseña: {password}")
 - No es criptográficamente seguro: Para seguridad usa secrets (ej: contraseñas).
 - No usar para muestreos científicos: En ciencia de datos prefiere numpy.random.
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#26-módulo-aleatorio)

@@ -89,4 +89,4 @@ print(texto.translate(trans))  # "H4l2 m5nd2" (vocales reemplazadas y signos eli
 string.ascii_uppercase
 ```
 
-[Volver al Readme de módulos](../readme.md)
+[Volver al Readme de módulos](../readme.md/#25-módulo-de-cadenas)

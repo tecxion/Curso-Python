@@ -3,7 +3,7 @@
 </h4>
 
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/modulos.png">
+<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/listas_2.png">
 </h1>
 
 

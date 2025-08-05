@@ -202,7 +202,7 @@ print(stdev(edades))
 # Ejemplo.
 import math
 print(math.pi)           # 3.141592653589793, número pi
-print(math.sqrt(2))      # 1.4142135623730951, cuadrado
+print(math.sqrt(2))      # 1.4142135623730951, raiz cuadrada
 print(math.pow(2, 3))    # 8.0, función exponencial
 print(math.floor(9.81))  # 9, rredondea a la baja
 print(math.ceil(9.81))   # 10, redondea a la alta
@@ -248,7 +248,34 @@ print(randint(5, 20))
 
 - [Ver documento](./modulos_integrados/random.md)
 
+
+
+---
+>[TIP]
+>Si queremos importar todas las funciones de un módulo podemos usar el _*_
+>```python
+># Ejemplo
+>from nombre_modulo import *
+>```
+>También añadir que los módulos de terceros hace falta instalarlos desde terminal,
+>`pip install numpy pandas`
+
+--- 
+
+
 <a name = "3-ejercicios" ></a>
 
 ## 3. Ejercicios
 
+1. Escribe una función que genere una contraseña aleatoria.
+2. Escribe una función que genere un color aleatorio rgb que son tres valores entre 0 y 255, ej. rgb(243,34,234).
+3. Escribe un script que cree una carpeta con el nombre introducido por el usuario, y luego pregunte si quiere borrarla y si contesta "sí" que se borre.
+4. Usa el módulo math y crea una función que haga el cuadrado de un número y lo rendonde al alza si es mas de 0,5 y a la baja si es menos de 0,5.
+5. crea una función que saque la media de notas de esta lista importando el módulo statistics.
+   ```python
+    notas = [5.4, 7, 8.5, 1.2, 6, 8.8, 4.7]
+   ```
+6. crea un script con el módulo sys que imprima. 
+```python
+print(f"Hola {argumento 1}. Tu nota media del examen de {argumento 2} es de {argumento 3}")
+```

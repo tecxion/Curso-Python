@@ -459,7 +459,7 @@ def decir_algo(mensaje):
 # Hola mundo
 ```
 
-> [NOTE]
+> [!NOTE]
 > Ya que este capítulo es algo dificil de entender te dejo estos consejos para que realices los ejercicios.
 > Recuerda que map() y filter() devuelven iteradores, usa list() para convertir a lista
 > En filter(), la función debe devolver True o False

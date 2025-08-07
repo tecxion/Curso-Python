@@ -479,7 +479,9 @@ def decir_algo(mensaje):
 > - Para contar llamadas, puedes usar una variable global o usar wrapper.contador
 > - Para medir tiempo: import time, guarda time.time() antes y después de la función
 
-
+<h3 align = "center">
+Este capítulo es interesante y dificil de entender por lo que te animo a que le des un par de vueltas para entenderlo que al final se consigue, te lo digo yo...
+</h3>
 
 
 <h4 align="center">

@@ -76,6 +76,8 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
     1.  [Ejercicios](11_Listas_2/ejercicios.py)
 13. [Capítulo 12: Módulos](12_Modulos/readme.md)
     1.  [Ejercicios](12_Modulos/ejercicios.py)
+14. [Capítulo 13: Funciones 2 / Funciones de orden superior](13_Funciones_2/readme.md)
+    1.  [Ejercicios](13_Funciones_2/ejercicios.py)
 
 
 --- 

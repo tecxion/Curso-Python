@@ -279,3 +279,11 @@ print(randint(5, 20))
 ```python
 print(f"Hola {argumento 1}. Tu nota media del examen de {argumento 2} es de {argumento 3}")
 ```
+
+[Solución de los ejercicios](./ejercicios.py)
+
+
+
+<h4 align="center">
+<a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/13_Funciones_2/readme.md">Siguiente Capítulo</a>
+</h4>

@@ -23,7 +23,7 @@
   - [4.1 Función de mapa](#41-función-de-mapa)
   - [4.2 Función de filtro](#42-función-de-filtro)
   - [4.3 Función de reducción](#43-función-de-reducción)
-  - [4.4 Funcion Sroted con clave](#44-funcion-sroted-con-clave)
+  - [4.4 Funcion Sorted con clave](#44-funcion-sorted-con-clave)
 - [5. Ejercicios](#5-ejercicios)
 
 <a name = "1-función-de-orden-superior"> </a>
@@ -333,7 +333,7 @@ reduce(lambda x, y: x + y, [1, 2, 3], 10)  # 16 (10 + 1 + 2 + 3)
 
 <a name = "" ></a>
 
-### 4.4 Funcion Sroted con clave
+### 4.4 Funcion Sorted con clave
 
 - Sorted() con key
 ```python

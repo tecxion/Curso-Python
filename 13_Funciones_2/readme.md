@@ -474,6 +474,7 @@ def decir_algo(mensaje):
 >         # Código después de la función
 >         return resultado
 >     return wrapper
+> ```
 > - Usa *args, **kwargs para que tu decorador funcione con cualquier función
 > - Para contar llamadas, puedes usar una variable global o usar wrapper.contador
 > - Para medir tiempo: import time, guarda time.time() antes y después de la función

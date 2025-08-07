@@ -459,24 +459,24 @@ def decir_algo(mensaje):
 # Hola mundo
 ```
 
->[NOTE]
->Ya que este capítulo es algo dificil de entender te dejo estos consejos para que realices los ejercicios.
->Recuerda que map() y filter() devuelven iteradores, usa list() para convertir a lista
->En filter(), la función debe devolver True o False
->En sorted() con key, especifica qué parte del elemento usar para ordenar
->Puedes usar lambda para funciones simples: lambda x: x * 2
->Un decorador básico tiene esta estructura:
->```python
->def mi_decorador(func):
->    def wrapper(*args, **kwargs):
->        # Código antes de la función
->        resultado = func(*args, **kwargs)
->        # Código después de la función
->        return resultado
->    return wrapper
->Usa *args, **kwargs para que tu decorador funcione con cualquier función
->Para contar llamadas, puedes usar una variable global o usar wrapper.contador
->Para medir tiempo: import time, guarda time.time() antes y después de la función
+> [NOTE]
+> Ya que este capítulo es algo dificil de entender te dejo estos consejos para que realices los ejercicios.
+> Recuerda que map() y filter() devuelven iteradores, usa list() para convertir a lista
+> En filter(), la función debe devolver True o False
+> En sorted() con key, especifica qué parte del elemento usar para ordenar
+> Puedes usar lambda para funciones simples: lambda x: x * 2
+> Un decorador básico tiene esta estructura:
+> ```python
+> def mi_decorador(func):
+>     def wrapper(*args, **kwargs):
+>         # Código antes de la función
+>         resultado = func(*args, **kwargs)
+>         # Código después de la función
+>         return resultado
+>     return wrapper
+> Usa *args, **kwargs para que tu decorador funcione con cualquier función
+> Para contar llamadas, puedes usar una variable global o usar wrapper.contador
+> Para medir tiempo: import time, guarda time.time() antes y después de la función
 
 
 

@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Día siguiente</a>
 </h4>
 
 
@@ -7,9 +7,9 @@
 <img src="https://github.com/tecxion/Curso-Python/blob/main/Media/operadores.png">
 </h1>
 
-# Capítulo 2: Operadores.
+# Día 2: Operadores.
 
-- [Capítulo 2: Operadores.](#capítulo-2-operadores)
+- [Día 2: Operadores.](#día-2-operadores)
   - [1. Operadores de Asignación](#1-operadores-de-asignación)
   - [2. Operadores aritméticos](#2-operadores-aritméticos)
   - [3. Operadores de comparación](#3-operadores-de-comparación)
@@ -19,7 +19,7 @@
   - [6. Ejercicios](#6-ejercicios)
 
 
-En este capítulo, exploraremos los **operadores** en Python, que son símbolos especiales utilizados para realizar operaciones entre valores o variables. Los operadores son fundamentales en la programación, ya que nos permiten manipular datos y tomar decisiones dentro de nuestros programas.
+En este día, exploraremos los **operadores** en Python, que son símbolos especiales utilizados para realizar operaciones entre valores o variables. Los operadores son fundamentales en la programación, ya que nos permiten manipular datos y tomar decisiones dentro de nuestros programas.
 
 Python incluye varios tipos de operadores, que se clasifican en las siguientes categorías:
 
@@ -187,9 +187,9 @@ print(bool([]))       # Salida: False
 --- 
 
 <h3>
-¡Enhorabuena! Aunque se que los operadores son fáciles, hay que contarlos. ¡Te espero en el siguiente capítulo!
+¡Enhorabuena! Aunque se que los operadores son fáciles, hay que contarlos. ¡Te espero en el siguiente día!
 </h3>
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/01_Variables">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Día siguiente</a>
 </h4>

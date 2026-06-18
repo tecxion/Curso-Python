@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/13_Funciones_2/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/13_Funciones_2/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
@@ -56,7 +56,7 @@ Un módulo es un archivo .py que contiene:
 ### 1.2 Creando un módulo
 
 Para crear un módulo, escribimos nuestro código en un script de Python y lo guardamos como un archivo .py.
-- Vamos a comenzar creando un archivo en la carpeta del capítulo un archivo que se llame mi_modulo.py y escribamos código en el.
+- Vamos a comenzar creando un archivo en la carpeta del día un archivo que se llame mi_modulo.py y escribamos código en el.
 ```python
 # mi_modulo.py código
 def nombre_completo(nombre, apellido):
@@ -285,5 +285,5 @@ print(f"Hola {argumento 1}. Tu nota media del examen de {argumento 2} es de {arg
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/13_Funciones_2/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/11_Listas_2/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/13_Funciones_2/readme.md">Día siguiente</a>
 </h4>

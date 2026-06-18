@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/04_Listas/readme.md">Día siguiente</a>
 </h4>
 
 
@@ -7,7 +7,7 @@
 <img src="https://github.com/tecxion/Curso-Python/blob/main/Media/cadenas.png">
 </h1>
 
-## Índice del Capítulo
+## Índice del Día
 - [Cadenas](#cadenas)
   - [1. Definición de cadenas (String)](#1-definición-de-cadenas-string)
   - [2. Longitud de una cadena](#2-longitud-de-una-cadena)
@@ -409,7 +409,7 @@ Hay alrededor de 50 métodos de strings, por lo que te recomiendo que te vayas l
 
 ## 8. Ejercicios.
 
-A continuación te dejo una serie de ejercicios para que practiques lo aprendido en este capítulo.
+A continuación te dejo una serie de ejercicios para que practiques lo aprendido en este día.
 
 1. Une las palabras `'Aprendiendo'`, `'Programar'`, `'Con'`, `'Python'` para formar una única cadena: `'Aprendiendo Programar Con Python'`.
 2. Crea una cadena concatenando `'Programar'`, `'Es'`, `'Genial'` para obtener `'Programar Es Genial'`.
@@ -473,11 +473,11 @@ A continuación te dejo una serie de ejercicios para que practiques lo aprendido
 <br>
 
 <h3>
-¡Enhorabuena! Ya estás un paso más cerca de aprender Python. ¡Te espero en el siguiente capítulo!
+¡Enhorabuena! Ya estás un paso más cerca de aprender Python. ¡Te espero en el siguiente día!
 </h3>
 
 <br>
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas">Día siguiente</a>
 </h4>
 

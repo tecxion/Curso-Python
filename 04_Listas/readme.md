@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Día siguiente</a>
 </h4>
 
 
@@ -9,7 +9,7 @@
 
 # Listas
 
-## Indice del capítulo.
+## Indice del día.
 
 - [1. Definición](#1-definición)
 - [2. Creación de una lista](#2-creacion)
@@ -43,7 +43,7 @@ En python hay cuatro tipos de datos de colección: tuplas, listas, diccionarios 
 - El Diccionario es una colección desordenada, no indexada y modificable, no permite miembros duplicados.
 - El Conjunto es una colección desordenada, no indexada, no modificable, pero se pueden añadir nuevos elementos duplicados.
 
-Por lo tanto en el presente capítulo hablaremos de las listas, colección de diferentes tipos de datos, ordenada y modificable. Puede contener elementos de diferentes tipos y además puede estar vacia.
+Por lo tanto en el presente día hablaremos de las listas, colección de diferentes tipos de datos, ordenada y modificable. Puede contener elementos de diferentes tipos y además puede estar vacia.
 
 
 <a name="2-creacion"></a>
@@ -486,5 +486,5 @@ edad = [19,23,23,54,19,37,32,26,28,22,45]
 </h3>
 <br>
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/03_Cadenas/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/05_Tuplas/readme.md">Día siguiente</a>
 </h4>

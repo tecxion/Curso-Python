@@ -1,0 +1,10 @@
+# Este proyecto funciona solo con la LIBRERÍA ESTÁNDAR de Python
+# (json, os y datetime ya vienen incluidos), así que no necesita
+# instalar nada con pip.
+#
+# Aun así, mantenemos este fichero porque es el estándar en todo
+# proyecto Python: aquí irían las dependencias externas, una por línea.
+# Ejemplo de cómo se vería si usáramos paquetes externos:
+#
+# colorama==0.4.6
+# rich==13.7.1

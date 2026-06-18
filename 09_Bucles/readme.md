@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
@@ -358,7 +358,7 @@ for numer in range(6):
 
 <h4 align="center">
 ⭐⭐⭐⭐⭐ <br>
-La programación no es un camino de rosas pero ya estás un pasito más cerca. te recomiendo que repases conceptos para no olvidarlos, que a mí mientras escribo el manual se me van olvidando cosas de capítulos anteriores y tengo que volver a mirarlos.
+La programación no es un camino de rosas pero ya estás un pasito más cerca. te recomiendo que repases conceptos para no olvidarlos, que a mí mientras escribo el manual se me van olvidando cosas de días anteriores y tengo que volver a mirarlos.
 </h4>
 
 <a name = "9-ejercicios" ></a>
@@ -396,5 +396,5 @@ paises_por_continente = {
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/08_Condicionales/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Día siguiente</a>
 </h4>

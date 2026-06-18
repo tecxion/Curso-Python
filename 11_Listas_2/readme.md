@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
@@ -157,5 +157,5 @@ provincias = [[("La Rioja", "Logroño")], [("Alava", "Vitoria")], [("Madrid", "M
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/10_Funciones/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Día siguiente</a>
 </h4>

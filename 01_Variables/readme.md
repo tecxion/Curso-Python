@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Día siguiente</a>
 </h4>
 
 
@@ -324,5 +324,5 @@ Para realizar los ejercicios abre tu IDE, crea una carpeta en su interior que se
 
 <br>
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python">Inicio del Curso</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/02_Operadores">Día siguiente</a>
 </h4>

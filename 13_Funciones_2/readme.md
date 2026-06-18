@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/14_Errores/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/14_Errores/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
@@ -460,7 +460,7 @@ def decir_algo(mensaje):
 ```
 
 > [!NOTE]
-> - Ya que este capítulo es algo dificil de entender te dejo estos consejos para que realices los ejercicios.
+> - Ya que este día es algo dificil de entender te dejo estos consejos para que realices los ejercicios.
 > - Recuerda que map() y filter() devuelven iteradores, usa list() para convertir a lista
 > - En filter(), la función debe devolver True o False
 > - En sorted() con key, especifica qué parte del elemento usar para ordenar
@@ -483,12 +483,12 @@ def decir_algo(mensaje):
 
 
 <h3 align = "center">
-Este capítulo es interesante y dificil de entender por lo que te animo a que le des un par de vueltas para entenderlo que al final se consigue, te lo digo yo...
+Este día es interesante y dificil de entender por lo que te animo a que le des un par de vueltas para entenderlo que al final se consigue, te lo digo yo...
 </h3>
 
 
 
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Capítulo anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/14_Errores/readme.md">Siguiente Capítulo</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/12_Modulos/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/14_Errores/readme.md">Día siguiente</a>
 </h4>

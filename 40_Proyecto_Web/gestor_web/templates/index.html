@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block titulo %}Mis Tareas{% endblock %}
+
+{% block contenido %}
+<form action="{{ url_for('agregar') }}" method="POST" class="formulario">
+    <input type="text" name="titulo" placeholder="¿Qué tienes que hacer?" required>
+    <button type="submit">Añadir</button>
+</form>
+
+<p class="resumen">Tienes <strong>{{ pendientes }}</strong> tarea(s) pendiente(s).</p>
+
+{% if tareas %}
+<ul class="lista-tareas">
+    {% for tarea in tareas %}
+    <li class="{{ 'hecha' if tarea.hecha else '' }}">
+        <a href="{{ url_for('completar', id=tarea.id) }}" class="check" title="Marcar/desmarcar">
+            {{ '✅' if tarea.hecha else '⬜' }}
+        </a>
+        <span class="titulo-tarea">{{ tarea.titulo }}</span>
+        <a href="{{ url_for('eliminar', id=tarea.id) }}" class="borrar" title="Eliminar">🗑️</a>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p class="vacio">No hay tareas todavía. ¡Añade la primera!</p>
+{% endif %}
+{% endblock %}

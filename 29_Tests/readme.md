@@ -1,5 +1,5 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/28_Logging/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/30_Proyecto_Final/readme.md">Día siguiente</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/28_Logging/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/30_NumPy/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
@@ -223,5 +223,5 @@ Para estos ejercicios, crea una función y luego pruébala. Puedes usar `unittes
 </h3>
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/28_Logging/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/30_Proyecto_Final/readme.md">Día siguiente</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/28_Logging/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/30_NumPy/readme.md">Día siguiente</a>
 </h4>

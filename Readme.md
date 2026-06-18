@@ -43,9 +43,9 @@ Bienvenidos este curso donde aprenderemos a programar en python, no soy experto 
 Python es un lenguaje de programación interpretado, de alto nivel y propósito general. Es conocido por su sintaxis clara y legible, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados. Python se utiliza en una amplia variedad de campos, como desarrollo web, análisis de datos, inteligencia artificial, automatización, y mucho más.
 
 ---
-### Índice del Curso (30 días):
+### Índice del Curso (40 días):
 
-> Este curso está pensado para completarse en **30 días**, un tema por día. Cada día tiene su teoría (`readme.md`) y sus ejercicios resueltos (`ejercicios.py`). Los días **1-13** son los fundamentos, los días **14-19** dan el salto a Python intermedio, los días **20-29** cubren temas avanzados y el **día 30** es el proyecto final donde juntarás todo lo aprendido.
+> Este curso está pensado para completarse en **40 días**, un tema por día, yendo **de 0 a avanzado**. Cada día tiene su teoría (`readme.md`) y sus ejercicios resueltos (`ejercicios.py`); a partir del día 30 los ejercicios vienen en **tres niveles** (Básico / Aplicado / Reto). Los días **1-13** son los fundamentos, los **14-19** dan el salto a Python intermedio, los **20-29** cubren temas avanzados, los **30-34** la ciencia de datos, los **35-38** el desarrollo web y el despliegue, y los **39-40** son dos proyectos finales completos: uno de consola y uno web desplegado en internet.
 
 1. [Preparación inicial: Instalación](#instala)
    1. [Configuración del IDE (VS Code)](#configuraciónide)
@@ -112,8 +112,28 @@ Python es un lenguaje de programación interpretado, de alto nivel y propósito 
     1.  [Ejercicios](28_Logging/ejercicios.py)
 30. [Día 29: Tests con unittest y pytest](29_Tests/readme.md)
     1.  [Ejercicios](29_Tests/ejercicios.py)
-31. [Día 30: Proyecto Final - Gestor de Tareas de Consola](30_Proyecto_Final/readme.md)
-    1.  [Código del proyecto](30_Proyecto_Final/gestor_tareas)
+31. [Día 30: NumPy - Cálculo numérico](30_NumPy/readme.md)
+    1.  [Ejercicios (3 niveles)](30_NumPy/ejercicios.py)
+32. [Día 31: Pandas - Trabajar con datos](31_Pandas/readme.md)
+    1.  [Ejercicios (3 niveles)](31_Pandas/ejercicios.py)
+33. [Día 32: Análisis de Datos](32_Analisis_Datos/readme.md)
+    1.  [Ejercicios (3 niveles)](32_Analisis_Datos/ejercicios.py)
+34. [Día 33: Visualización de Datos (Matplotlib)](33_Visualizacion/readme.md)
+    1.  [Ejercicios (3 niveles)](33_Visualizacion/ejercicios.py)
+35. [Día 34: Web Scraping](34_Web_Scraping/readme.md)
+    1.  [Ejercicios (3 niveles)](34_Web_Scraping/ejercicios.py)
+36. [Día 35: Desarrollo Web con Flask](35_Flask/readme.md)
+    1.  [Ejercicios (3 niveles)](35_Flask/ejercicios.py)
+37. [Día 36: Construir una API REST con Flask](36_API_REST/readme.md)
+    1.  [Ejercicios (3 niveles)](36_API_REST/ejercicios.py)
+38. [Día 37: Flask + Base de Datos (SQLAlchemy)](37_Flask_BBDD/readme.md)
+    1.  [Ejercicios (3 niveles)](37_Flask_BBDD/ejercicios.py)
+39. [Día 38: Despliegue en la Nube](38_Despliegue/readme.md)
+    1.  [App de ejemplo lista para desplegar](38_Despliegue/app.py)
+40. [Día 39: Proyecto Final 1 - Gestor de Tareas de Consola](39_Proyecto_Consola/readme.md)
+    1.  [Código del proyecto](39_Proyecto_Consola/gestor_tareas)
+41. [Día 40: Proyecto Final 2 - Gestor de Tareas Web (full-stack)](40_Proyecto_Web/readme.md)
+    1.  [Código del proyecto](40_Proyecto_Web/gestor_web)
 
 
 --- 

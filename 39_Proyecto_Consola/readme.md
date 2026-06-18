@@ -1,13 +1,13 @@
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/29_Tests/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/38_Despliegue/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/40_Proyecto_Web/readme.md">Día siguiente</a>
 </h4>
 
 <h1 align="center">
-<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/proyecto_final.png">
+<img src="https://github.com/tecxion/Curso-Python/blob/main/Media/proyecto_consola.png">
 </h1>
 
 
-<h1 align="center">Proyecto Final: Gestor de Tareas de Consola</h1><br>
+<h1 align="center">Proyecto 1: Gestor de Tareas de Consola</h1><br>
 
 <h3>Índice</h3>
 
@@ -362,16 +362,14 @@ El proyecto funciona, pero la mejor forma de aprender es ampliarlo. Aquí tienes
 
 ## 11. ¡Enhorabuena!
 
-Si has llegado hasta aquí, has recorrido **todo el camino**: desde imprimir `"Hola Mundo"` en el día 1 hasta construir y desplegar una aplicación completa, organizada en varios ficheros, con clases, persistencia de datos y manejo de errores. Eso ya **no es de principiante**.
+Has construido una aplicación de consola completa, organizada en varios ficheros, con clases, persistencia de datos y manejo de errores: todo lo aprendido desde el día 1 puesto en práctica. Eso ya **no es de principiante**.
 
-El siguiente paso es construir **tus propios proyectos**: lo que de verdad fija lo aprendido es enfrentarse a problemas nuevos. Coge una idea que te apetezca (un diario, una agenda, un juego de consola, un conversor de divisas…) y láncate. Cometerás errores, los buscarás en Google y en la documentación, y aprenderás más que con cualquier curso.
-
-Gracias por acompañarme en este curso. ¡Nos vemos en el siguiente repositorio! 🚀
+Pero aún queda un último reto, el más ambicioso del curso. Mañana, en el **día 40**, construirás el **segundo proyecto final**: una aplicación **web full-stack** (Flask + API + base de datos) y la **desplegarás en internet** con una URL pública. Llevarás esta misma idea (un gestor de tareas) del terminal a la web.
 
 <h3 align = "center">
 "No tienes que ser un experto para empezar, pero tienes que empezar para llegar a ser un experto."
 </h3>
 
 <h4 align="center">
-<a href="https://github.com/tecxion/Curso-Python/tree/main/29_Tests/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">🏠 Volver al Inicio</a>
+<a href="https://github.com/tecxion/Curso-Python/tree/main/38_Despliegue/readme.md">Día anterior</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main">Inicio</a> | <a href="https://github.com/tecxion/Curso-Python/tree/main/40_Proyecto_Web/readme.md">Día siguiente</a>
 </h4>

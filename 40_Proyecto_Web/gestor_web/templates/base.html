@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block titulo %}Gestor de Tareas{% endblock %}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='estilo.css') }}">
+</head>
+<body>
+    <div class="contenedor">
+        <header>
+            <h1>📝 Gestor de Tareas</h1>
+            <p class="subtitulo">Curso de Python en 40 días — Proyecto Web</p>
+        </header>
+        {% block contenido %}{% endblock %}
+        <footer>
+            <p>Hecho con Flask 🐍</p>
+        </footer>
+    </div>
+</body>
+</html>

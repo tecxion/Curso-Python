@@ -1,8 +1,8 @@
 # Gestor de Tareas TecXion 📝
 
-Aplicación de consola para gestionar una lista de tareas. Es el **proyecto final**
-del [Curso de Python desde 0](https://github.com/tecxion/Curso-Python) y reúne todo
-lo aprendido: clases (POO), manejo de ficheros (JSON), control de errores,
+Aplicación de consola para gestionar una lista de tareas. Es el **primer proyecto final**
+(día 39) del [Curso de Python en 40 días](https://github.com/tecxion/Curso-Python) y reúne
+todo lo aprendido: clases (POO), manejo de ficheros (JSON), control de errores,
 comprensiones y organización de un proyecto en varios archivos.
 
 ## ¿Qué hace?
